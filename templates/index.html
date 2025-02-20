@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Chatbot</title>
+    <!-- Using an absolute path to the static folder -->
+    <link rel="stylesheet" type="text/css" href="/static/style.css" />
+  </head>
+  <body>
+    <div class="chat-container">
+      <h1>Chatbot</h1>
+      <div id="chat-box"></div>
+      <form id="chat-form">
+        <input
+          type="text"
+          id="message"
+          placeholder="Type your message..."
+          autocomplete="off"
+          required
+        />
+        <button type="submit">Send</button>
+      </form>
+    </div>
+
+    <script>
+      const chatForm = document.getElementById("chat-form");
+      const chatBox = document.getElementById("chat-box");
+
+      chatForm.addEventListener("submit", function (e) {
+        e.preventDefault();
+        const messageInput = document.getElementById("message");
+        const message = messageInput.value;
+
+        // Append user's message to the chat box
+        const userDiv = document.createElement("div");
+        userDiv.className = "user-message";
+        userDiv.innerText = "User: " + message;
+        chatBox.appendChild(userDiv);
+
+        // Send the message to the server using fetch
+        fetch("/chat", {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/x-www-form-urlencoded",
+          },
+          body: "message=" + encodeURIComponent(message),
+        })
+          .then((response) => response.json())
+          .then((data) => {
+            // Append bot's answer to the chat box
+            const botDiv = document.createElement("div");
+            botDiv.className = "bot-message";
+            botDiv.innerText = "Bot: " + data.answer;
+            chatBox.appendChild(botDiv);
+            messageInput.value = "";
+            // Scroll to bottom
+            chatBox.scrollTop = chatBox.scrollHeight;
+          })
+          .catch((error) => console.error("Error:", error));
+      });
+    </script>
+  </body>
+</html>
