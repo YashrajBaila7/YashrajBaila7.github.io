@@ -1,0 +1,2249 @@
+<|start_query|> Query: What are the hostel facilities available? <|end_query|>
+<|start_answer|> Answer: The hostel provides furnished rooms, Wi-Fi, laundry services, and common rooms for recreation. <|end_answer|>
+
+<|start_query|> Query: How can I apply for hostel accommodation? <|end_query|>
+<|start_answer|> Answer: You can apply for hostel accommodation through the student portal during the admission process. <|end_answer|>
+
+<|start_query|> Query: Are there separate hostels for boys and girls? <|end_query|>
+<|start_answer|> Answer: Yes, the campus has separate hostels for boys and girls, each with dedicated wardens. <|end_answer|>
+
+<|start_query|> Query: Could you describe what are the hostel rules and timings? <|end_query|>
+<|start_answer|> Answer: Hostel rules include curfew timings, visitor policies, and guidelines to ensure a safe living environment. <|end_answer|>
+
+<|start_query|> Query: What is the admission process? <|end_query|>
+<|start_answer|> Answer: Admissions are based on entrance exams, merit, and interviews, depending on the program. <|end_answer|>
+
+<|start_query|> Query: Are there any entrance exams required? <|end_query|>
+<|start_answer|> Answer: Yes, some programs require entrance exams. Check the admissions brochure for details. <|end_answer|>
+
+<|start_query|> Query: What documents are needed for admission? <|end_query|>
+<|start_answer|> Answer: You need academic transcripts, ID proof, entrance exam scores, and passport-sized photos. <|end_answer|>
+
+<|start_query|> Query: Is there any admission helpline available? <|end_query|>
+<|start_answer|> Answer: Yes, the admissions office provides support via email and phone during business hours. <|end_answer|>
+
+<|start_query|> Query: What scholarships are offered? <|end_query|>
+<|start_answer|> Answer: Merit-based, need-based, and sports scholarships are available. Details are on the scholarships page. <|end_answer|>
+
+<|start_query|> Query: How to apply for scholarships? <|end_query|>
+<|start_answer|> Answer: Submit the scholarship form online along with required documents during the admission process. <|end_answer|>
+
+<|start_query|> Query: Are scholarships renewed every year? <|end_query|>
+<|start_answer|> Answer: Scholarships are renewed annually based on academic performance and other criteria. <|end_answer|>
+
+<|start_query|> Query: Is there financial aid for international students? <|end_query|>
+<|start_answer|> Answer: Yes, limited scholarships are available for international students based on merit and need. <|end_answer|>
+
+<|start_query|> Query: What is campus life like? <|end_query|>
+<|start_answer|> Answer: Campus life is vibrant, with various clubs, cultural events, and academic activities throughout the year. <|end_answer|>
+
+<|start_query|> Query: Are there common areas for students to relax? <|end_query|>
+<|start_answer|> Answer: Indeed, there are student lounges, gardens, and recreational areas for students to relax and socialize. <|end_answer|>
+
+<|start_query|> Query: What safety measures are in place on campus? <|end_query|>
+<|start_answer|> Answer: The campus has 24/7 security, CCTV surveillance, and emergency response systems. <|end_answer|>
+
+<|start_query|> Query: Are there any mentorship programs? <|end_query|>
+<|start_answer|> Answer: Yes, mentorship programs connect students with faculty and senior peers for guidance. <|end_answer|>
+
+<|start_query|> Query: How is the hostel environment? <|end_query|>
+<|start_answer|> Answer: The hostel offers a supportive environment with study groups, recreational activities, and cultural nights. <|end_answer|>
+
+<|start_query|> Query: What are the dining options in the hostel? <|end_query|>
+<|start_answer|> Answer: The hostel mess provides nutritious meals with vegetarian and non-vegetarian options. <|end_answer|>
+
+<|start_query|> Query: Is there Wi-Fi available in hostels? <|end_query|>
+<|start_answer|> Answer: Certainly, all hostels have high-speed Wi-Fi for academic and personal use. <|end_answer|>
+
+<|start_query|> Query: What recreational activities are available in hostels? <|end_query|>
+<|start_answer|> Answer: Hostels have indoor games, TV rooms, and fitness areas for relaxation and leisure. <|end_answer|>
+
+<|start_query|> Query: How do I join campus clubs? <|end_query|>
+<|start_answer|> Answer: Join clubs during the annual club fair or by signing up with the respective club coordinators. <|end_answer|>
+
+<|start_query|> Query: What are the popular clubs on campus? <|end_query|>
+<|start_answer|> Answer: Popular clubs include coding clubs, dance societies, debate teams, and photography groups. <|end_answer|>
+
+<|start_query|> Query: Are there inter-college competitions? <|end_query|>
+<|start_answer|> Answer: Certainly, students regularly participate in inter-college technical, cultural, and sports competitions. <|end_answer|>
+
+<|start_query|> Query: Can students form new clubs? <|end_query|>
+<|start_answer|> Answer: Students can propose new clubs by submitting a plan to the student council for approval. <|end_answer|>
+
+<|start_query|> Query: What are popular after-college activities? <|end_query|>
+<|start_answer|> Answer: Students engage in workshops, part-time jobs, and explore local attractions after classes. <|end_answer|>
+
+<|start_query|> Query: Are there evening sports sessions? <|end_query|>
+<|start_answer|> Answer: Absolutely, evening sports sessions are held on the sports ground, including football and cricket matches. <|end_answer|>
+
+<|start_query|> Query: Is there support for performing arts? <|end_query|>
+<|start_answer|> Answer: Absolutely, cultural committees support music, dance, and theater activities with regular performances. <|end_answer|>
+
+<|start_query|> Query: Can students volunteer for social causes? <|end_query|>
+<|start_answer|> Answer: Volunteer opportunities are available with campus clubs and local NGOs for community service. <|end_answer|>
+
+<|start_query|> Query: What food options are available on campus? <|end_query|>
+<|start_answer|> Answer: The campus has multiple food courts offering diverse cuisines at affordable prices. <|end_answer|>
+
+<|start_query|> Query: Are there vegetarian food options? <|end_query|>
+<|start_answer|> Answer: Yes, vegetarian options are available in all campus eateries and the hostel mess. <|end_answer|>
+
+<|start_query|> Query: Does the campus have cafes? <|end_query|>
+<|start_answer|> Answer: Yes, there are cafes serving snacks, beverages, and light meals perfect for study breaks. <|end_answer|>
+
+<|start_query|> Query: Are late-night snacks available? <|end_query|>
+<|start_answer|> Answer: Absolutely, some cafes and vending machines are accessible late at night for snacks. <|end_answer|>
+
+<|start_query|> Query: What are the library timings? <|end_query|>
+<|start_answer|> Answer: The library is open from 8 AM to 10 PM on weekdays and 9 AM to 5 PM on weekends. <|end_answer|>
+
+<|start_query|> Query: Can I borrow books from the library? <|end_query|>
+<|start_answer|> Answer: Indeed, students can borrow books using their ID card for a specified duration. <|end_answer|>
+
+<|start_query|> Query: Are digital resources available? <|end_query|>
+<|start_answer|> Answer: Yes, the library offers access to e-books, journals, and research databases. <|end_answer|>
+
+<|start_query|> Query: Is there a quiet study area? <|end_query|>
+<|start_answer|> Answer: Yes, designated quiet zones are available in the library for focused study. <|end_answer|>
+
+<|start_query|> Query: Is there a gym on campus? <|end_query|>
+<|start_answer|> Answer: Yes, the campus gym is equipped with modern fitness equipment and personal trainers. <|end_answer|>
+
+<|start_query|> Query: What are the gym timings? <|end_query|>
+<|start_answer|> Answer: The gym is open from 6 AM to 9 PM, with separate sessions for men and women. <|end_answer|>
+
+<|start_query|> Query: Are there group fitness classes? <|end_query|>
+<|start_answer|> Answer: Indeed, group fitness classes like yoga, Zumba, and aerobics are conducted regularly. <|end_answer|>
+
+<|start_query|> Query: Do students need to pay for the gym? <|end_query|>
+<|start_answer|> Answer: Gym membership is included in hostel fees, and day scholars can subscribe separately. <|end_answer|>
+
+<|start_query|> Query: What are the placement statistics? <|end_query|>
+<|start_answer|> Answer: The placement cell publishes annual reports showcasing placement percentages and top recruiters. <|end_answer|>
+
+<|start_query|> Query: Which companies visit for placements? <|end_query|>
+<|start_answer|> Answer: Top companies from IT, finance, and consulting sectors visit for campus placements. <|end_answer|>
+
+<|start_query|> Query: Is there pre-placement training? <|end_query|>
+<|start_answer|> Answer: Yes, pre-placement training includes mock interviews, resume building, and aptitude tests. <|end_answer|>
+
+<|start_query|> Query: How do I register for placements? <|end_query|>
+<|start_answer|> Answer: Register through the placement portal by submitting required documents and preferences. <|end_answer|>
+
+<|start_query|> Query: What awards are given to students? <|end_query|>
+<|start_answer|> Answer: Awards include academic excellence, leadership, innovation, and community service recognitions. <|end_answer|>
+
+<|start_query|> Query: Are there scholarships for top performers? <|end_query|>
+<|start_answer|> Answer: Yes, top-performing students receive merit scholarships and academic awards each semester. <|end_answer|>
+
+<|start_query|> Query: How are award winners selected? <|end_query|>
+<|start_answer|> Answer: Award recipients are chosen based on academic records, extracurricular achievements, and leadership roles. <|end_answer|>
+
+<|start_query|> Query: Is there a convocation ceremony? <|end_query|>
+<|start_answer|> Answer: Yes, the convocation ceremony includes degree conferral and award presentations for graduates. <|end_answer|>
+
+<|start_query|> Query: What is the faculty-student ratio? <|end_query|>
+<|start_answer|> Answer: The faculty-student ratio ensures personalized attention and effective mentorship. <|end_answer|>
+
+<|start_query|> Query: Are faculty members industry-experienced? <|end_query|>
+<|start_answer|> Answer: Many faculty members have extensive industry experience and academic expertise. <|end_answer|>
+
+<|start_query|> Query: How accessible are faculty members? <|end_query|>
+<|start_answer|> Answer: Faculty members are available during office hours and by appointment for student consultations. <|end_answer|>
+
+<|start_query|> Query: Do faculties engage in research? <|end_query|>
+<|start_answer|> Answer: Yes, faculty members actively participate in research projects and publish in reputed journals. <|end_answer|>
+
+<|start_query|> Query: Could you describe what sports facilities are available? <|end_query|>
+<|start_answer|> Answer: Facilities include cricket grounds, football fields, tennis courts, and indoor sports complexes. <|end_answer|>
+
+<|start_query|> Query: Are there sports scholarships? <|end_query|>
+<|start_answer|> Answer: Yes, sports scholarships are awarded based on performance in national and state-level events. <|end_answer|>
+
+<|start_query|> Query: Is there a sports fest? <|end_query|>
+<|start_answer|> Answer: An annual sports fest invites participation from various colleges in multiple disciplines. <|end_answer|>
+
+<|start_query|> Query: Can beginners join sports teams? <|end_query|>
+<|start_answer|> Answer: Yes, beginners can join training sessions and represent the college after selection trials. <|end_answer|>
+
+<|start_query|> Query: What major events are held on campus? <|end_query|>
+<|start_answer|> Answer: Annual tech fests, cultural nights, and sports tournaments are key highlights of campus life. <|end_answer|>
+
+<|start_query|> Query: How can I participate in events? <|end_query|>
+<|start_answer|> Answer: Event registrations are announced on the student portal and campus notice boards. <|end_answer|>
+
+<|start_query|> Query: Are there guest lectures? <|end_query|>
+<|start_answer|> Answer: Renowned industry experts and alumni are invited for guest lectures throughout the academic year. <|end_answer|>
+
+<|start_query|> Query: What cultural festivals are organized? <|end_query|>
+<|start_answer|> Answer: Cultural festivals include dance competitions, music shows, and drama performances celebrating diversity. <|end_answer|>
+
+<|start_query|> Query: Does the college offer online courses? <|end_query|>
+<|start_answer|> Answer: Yes, online certifications in data science, AI, and management are available through partner platforms. <|end_answer|>
+
+<|start_query|> Query: Are online courses part of the curriculum? <|end_query|>
+<|start_answer|> Answer: Some online courses are integrated into the curriculum for skill enhancement. <|end_answer|>
+
+<|start_query|> Query: Can students get credits for online courses? <|end_query|>
+<|start_answer|> Answer: Indeed, select online courses are credit-eligible after meeting performance criteria. <|end_answer|>
+
+<|start_query|> Query: Can you tell me what platforms offer online learning? <|end_query|>
+<|start_answer|> Answer: Partnerships with Coursera, edX, and Udacity enable access to various professional courses. <|end_answer|>
+
+<|start_query|> Query: Does the college provide internship opportunities? <|end_query|>
+<|start_answer|> Answer: The placement cell collaborates with companies to offer internships in various domains. <|end_answer|>
+
+<|start_query|> Query: Are internships mandatory for graduation? <|end_query|>
+<|start_answer|> Answer: Internships are mandatory for certain programs as part of the curriculum. <|end_answer|>
+
+<|start_query|> Query: Can students pursue international internships? <|end_query|>
+<|start_answer|> Answer: Indeed, international internship opportunities are available through global partnerships. <|end_answer|>
+
+<|start_query|> Query: How do I apply for internships? <|end_query|>
+<|start_answer|> Answer: Students can apply via the placement portal or approach faculty advisors for guidance. <|end_answer|>
+
+<|start_query|> Query: What on-campus facilities are available? <|end_query|>
+<|start_answer|> Answer: Facilities include health centers, bookstores, stationery shops, and banking services. <|end_answer|>
+
+<|start_query|> Query: Are there part-time jobs on campus? <|end_query|>
+<|start_answer|> Answer: Yes, part-time roles like library assistants and research aides are available for students. <|end_answer|>
+
+<|start_query|> Query: Is on-campus accommodation available for all students? <|end_query|>
+<|start_answer|> Answer: Hostel accommodation is provided on a first-come, first-served basis with priority for freshmen. <|end_answer|>
+
+<|start_query|> Query: Are there meal plans for day scholars? <|end_query|>
+<|start_answer|> Answer: Day scholars can opt for meal plans providing access to campus dining facilities. <|end_answer|>
+
+<|start_query|> Query: What tech courses are available? <|end_query|>
+<|start_answer|> Answer: Courses in computer science, AI, cybersecurity, and data analytics are offered for tech enthusiasts. <|end_answer|>
+
+<|start_query|> Query: Are there non-tech courses available? <|end_query|>
+<|start_answer|> Answer: Non-tech options include psychology, business management, media studies, and literature programs. <|end_answer|>
+
+<|start_query|> Query: Can students switch courses after admission? <|end_query|>
+<|start_answer|> Answer: Course changes are allowed during the add-drop period, subject to academic regulations. <|end_answer|>
+
+<|start_query|> Query: Are interdisciplinary courses available? <|end_query|>
+<|start_answer|> Answer: Yes, students can enroll in interdisciplinary electives blending technology, business, and humanities. <|end_answer|>
+
+<|start_query|> Query: Can you tell me what are the hostel facilities available? <|end_query|>
+<|start_answer|> Answer: The hostel provides furnished rooms, Wi-Fi, laundry services, and common rooms for recreation. <|end_answer|>
+
+<|start_query|> Query: How can I apply for hostel accommodation? <|end_query|>
+<|start_answer|> Answer: You can apply for hostel accommodation through the student portal during the admission process. <|end_answer|>
+
+<|start_query|> Query: Are there separate hostels for boys and girls? <|end_query|>
+<|start_answer|> Answer: Yes, the campus has separate hostels for boys and girls, each with dedicated wardens. <|end_answer|>
+
+<|start_query|> Query: What are the hostel rules and timings? <|end_query|>
+<|start_answer|> Answer: Hostel rules include curfew timings, visitor policies, and guidelines to ensure a safe living environment. <|end_answer|>
+
+<|start_query|> Query: What is the admission process? <|end_query|>
+<|start_answer|> Answer: Admissions are based on entrance exams, merit, and interviews, depending on the program. <|end_answer|>
+
+<|start_query|> Query: Are there any entrance exams required? <|end_query|>
+<|start_answer|> Answer: Yes, some programs require entrance exams. Check the admissions brochure for details. <|end_answer|>
+
+<|start_query|> Query: Could you describe what documents are needed for admission? <|end_query|>
+<|start_answer|> Answer: You need academic transcripts, ID proof, entrance exam scores, and passport-sized photos. <|end_answer|>
+
+<|start_query|> Query: Is there any admission helpline available? <|end_query|>
+<|start_answer|> Answer: Yes, the admissions office provides support via email and phone during business hours. <|end_answer|>
+
+<|start_query|> Query: What scholarships are offered? <|end_query|>
+<|start_answer|> Answer: Merit-based, need-based, and sports scholarships are available. Details are on the scholarships page. <|end_answer|>
+
+<|start_query|> Query: What's the process to to apply for scholarships? <|end_query|>
+<|start_answer|> Answer: Submit the scholarship form online along with required documents during the admission process. <|end_answer|>
+
+<|start_query|> Query: Are scholarships renewed every year? <|end_query|>
+<|start_answer|> Answer: Scholarships are renewed annually based on academic performance and other criteria. <|end_answer|>
+
+<|start_query|> Query: Is there financial aid for international students? <|end_query|>
+<|start_answer|> Answer: Yes, limited scholarships are available for international students based on merit and need. <|end_answer|>
+
+<|start_query|> Query: What is campus life like? <|end_query|>
+<|start_answer|> Answer: Campus life is vibrant, with various clubs, cultural events, and academic activities throughout the year. <|end_answer|>
+
+<|start_query|> Query: Are there common areas for students to relax? <|end_query|>
+<|start_answer|> Answer: Yes, there are student lounges, gardens, and recreational areas for students to relax and socialize. <|end_answer|>
+
+<|start_query|> Query: What safety measures are in place on campus? <|end_query|>
+<|start_answer|> Answer: The campus has 24/7 security, CCTV surveillance, and emergency response systems. <|end_answer|>
+
+<|start_query|> Query: Are there any mentorship programs? <|end_query|>
+<|start_answer|> Answer: Yes, mentorship programs connect students with faculty and senior peers for guidance. <|end_answer|>
+
+<|start_query|> Query: How is the hostel environment? <|end_query|>
+<|start_answer|> Answer: The hostel offers a supportive environment with study groups, recreational activities, and cultural nights. <|end_answer|>
+
+<|start_query|> Query: What are the dining options in the hostel? <|end_query|>
+<|start_answer|> Answer: The hostel mess provides nutritious meals with vegetarian and non-vegetarian options. <|end_answer|>
+
+<|start_query|> Query: Is there Wi-Fi available in hostels? <|end_query|>
+<|start_answer|> Answer: Yes, all hostels have high-speed Wi-Fi for academic and personal use. <|end_answer|>
+
+<|start_query|> Query: What recreational activities are available in hostels? <|end_query|>
+<|start_answer|> Answer: Hostels have indoor games, TV rooms, and fitness areas for relaxation and leisure. <|end_answer|>
+
+<|start_query|> Query: How do I join campus clubs? <|end_query|>
+<|start_answer|> Answer: Join clubs during the annual club fair or by signing up with the respective club coordinators. <|end_answer|>
+
+<|start_query|> Query: Could you describe what are the popular clubs on campus? <|end_query|>
+<|start_answer|> Answer: Popular clubs include coding clubs, dance societies, debate teams, and photography groups. <|end_answer|>
+
+<|start_query|> Query: Are there inter-college competitions? <|end_query|>
+<|start_answer|> Answer: Yes, students regularly participate in inter-college technical, cultural, and sports competitions. <|end_answer|>
+
+<|start_query|> Query: Can students form new clubs? <|end_query|>
+<|start_answer|> Answer: Students can propose new clubs by submitting a plan to the student council for approval. <|end_answer|>
+
+<|start_query|> Query: What are popular after-college activities? <|end_query|>
+<|start_answer|> Answer: Students engage in workshops, part-time jobs, and explore local attractions after classes. <|end_answer|>
+
+<|start_query|> Query: Are there evening sports sessions? <|end_query|>
+<|start_answer|> Answer: Indeed, evening sports sessions are held on the sports ground, including football and cricket matches. <|end_answer|>
+
+<|start_query|> Query: Is there support for performing arts? <|end_query|>
+<|start_answer|> Answer: Yes, cultural committees support music, dance, and theater activities with regular performances. <|end_answer|>
+
+<|start_query|> Query: Can students volunteer for social causes? <|end_query|>
+<|start_answer|> Answer: Volunteer opportunities are available with campus clubs and local NGOs for community service. <|end_answer|>
+
+<|start_query|> Query: What food options are available on campus? <|end_query|>
+<|start_answer|> Answer: The campus has multiple food courts offering diverse cuisines at affordable prices. <|end_answer|>
+
+<|start_query|> Query: Are there vegetarian food options? <|end_query|>
+<|start_answer|> Answer: Yes, vegetarian options are available in all campus eateries and the hostel mess. <|end_answer|>
+
+<|start_query|> Query: Does the campus have cafes? <|end_query|>
+<|start_answer|> Answer: Indeed, there are cafes serving snacks, beverages, and light meals perfect for study breaks. <|end_answer|>
+
+<|start_query|> Query: Are late-night snacks available? <|end_query|>
+<|start_answer|> Answer: Absolutely, some cafes and vending machines are accessible late at night for snacks. <|end_answer|>
+
+<|start_query|> Query: What are the library timings? <|end_query|>
+<|start_answer|> Answer: The library is open from 8 AM to 10 PM on weekdays and 9 AM to 5 PM on weekends. <|end_answer|>
+
+<|start_query|> Query: Can I borrow books from the library? <|end_query|>
+<|start_answer|> Answer: Yes, students can borrow books using their ID card for a specified duration. <|end_answer|>
+
+<|start_query|> Query: Are digital resources available? <|end_query|>
+<|start_answer|> Answer: Yes, the library offers access to e-books, journals, and research databases. <|end_answer|>
+
+<|start_query|> Query: Is there a quiet study area? <|end_query|>
+<|start_answer|> Answer: Absolutely, designated quiet zones are available in the library for focused study. <|end_answer|>
+
+<|start_query|> Query: Is there a gym on campus? <|end_query|>
+<|start_answer|> Answer: Yes, the campus gym is equipped with modern fitness equipment and personal trainers. <|end_answer|>
+
+<|start_query|> Query: What are the gym timings? <|end_query|>
+<|start_answer|> Answer: The gym is open from 6 AM to 9 PM, with separate sessions for men and women. <|end_answer|>
+
+<|start_query|> Query: Are there group fitness classes? <|end_query|>
+<|start_answer|> Answer: Yes, group fitness classes like yoga, Zumba, and aerobics are conducted regularly. <|end_answer|>
+
+<|start_query|> Query: Do students need to pay for the gym? <|end_query|>
+<|start_answer|> Answer: Gym membership is included in hostel fees, and day scholars can subscribe separately. <|end_answer|>
+
+<|start_query|> Query: What are the placement statistics? <|end_query|>
+<|start_answer|> Answer: The placement cell publishes annual reports showcasing placement percentages and top recruiters. <|end_answer|>
+
+<|start_query|> Query: Which companies visit for placements? <|end_query|>
+<|start_answer|> Answer: Top companies from IT, finance, and consulting sectors visit for campus placements. <|end_answer|>
+
+<|start_query|> Query: Is there pre-placement training? <|end_query|>
+<|start_answer|> Answer: Indeed, pre-placement training includes mock interviews, resume building, and aptitude tests. <|end_answer|>
+
+<|start_query|> Query: How do I register for placements? <|end_query|>
+<|start_answer|> Answer: Register through the placement portal by submitting required documents and preferences. <|end_answer|>
+
+<|start_query|> Query: What awards are given to students? <|end_query|>
+<|start_answer|> Answer: Awards include academic excellence, leadership, innovation, and community service recognitions. <|end_answer|>
+
+<|start_query|> Query: Are there scholarships for top performers? <|end_query|>
+<|start_answer|> Answer: Indeed, top-performing students receive merit scholarships and academic awards each semester. <|end_answer|>
+
+<|start_query|> Query: How are award winners selected? <|end_query|>
+<|start_answer|> Answer: Award recipients are chosen based on academic records, extracurricular achievements, and leadership roles. <|end_answer|>
+
+<|start_query|> Query: Is there a convocation ceremony? <|end_query|>
+<|start_answer|> Answer: Certainly, the convocation ceremony includes degree conferral and award presentations for graduates. <|end_answer|>
+
+<|start_query|> Query: What is the faculty-student ratio? <|end_query|>
+<|start_answer|> Answer: The faculty-student ratio ensures personalized attention and effective mentorship. <|end_answer|>
+
+<|start_query|> Query: Are faculty members industry-experienced? <|end_query|>
+<|start_answer|> Answer: Many faculty members have extensive industry experience and academic expertise. <|end_answer|>
+
+<|start_query|> Query: Where can I find information on accessible are faculty members? <|end_query|>
+<|start_answer|> Answer: Faculty members are available during office hours and by appointment for student consultations. <|end_answer|>
+
+<|start_query|> Query: Do faculties engage in research? <|end_query|>
+<|start_answer|> Answer: Certainly, faculty members actively participate in research projects and publish in reputed journals. <|end_answer|>
+
+<|start_query|> Query: What sports facilities are available? <|end_query|>
+<|start_answer|> Answer: Facilities include cricket grounds, football fields, tennis courts, and indoor sports complexes. <|end_answer|>
+
+<|start_query|> Query: Are there sports scholarships? <|end_query|>
+<|start_answer|> Answer: Yes, sports scholarships are awarded based on performance in national and state-level events. <|end_answer|>
+
+<|start_query|> Query: Is there a sports fest? <|end_query|>
+<|start_answer|> Answer: An annual sports fest invites participation from various colleges in multiple disciplines. <|end_answer|>
+
+<|start_query|> Query: Can beginners join sports teams? <|end_query|>
+<|start_answer|> Answer: Yes, beginners can join training sessions and represent the college after selection trials. <|end_answer|>
+
+<|start_query|> Query: What major events are held on campus? <|end_query|>
+<|start_answer|> Answer: Annual tech fests, cultural nights, and sports tournaments are key highlights of campus life. <|end_answer|>
+
+<|start_query|> Query: How can I participate in events? <|end_query|>
+<|start_answer|> Answer: Event registrations are announced on the student portal and campus notice boards. <|end_answer|>
+
+<|start_query|> Query: Are there guest lectures? <|end_query|>
+<|start_answer|> Answer: Renowned industry experts and alumni are invited for guest lectures throughout the academic year. <|end_answer|>
+
+<|start_query|> Query: What cultural festivals are organized? <|end_query|>
+<|start_answer|> Answer: Cultural festivals include dance competitions, music shows, and drama performances celebrating diversity. <|end_answer|>
+
+<|start_query|> Query: Does the college offer online courses? <|end_query|>
+<|start_answer|> Answer: Yes, online certifications in data science, AI, and management are available through partner platforms. <|end_answer|>
+
+<|start_query|> Query: Are online courses part of the curriculum? <|end_query|>
+<|start_answer|> Answer: Some online courses are integrated into the curriculum for skill enhancement. <|end_answer|>
+
+<|start_query|> Query: Can students get credits for online courses? <|end_query|>
+<|start_answer|> Answer: Indeed, select online courses are credit-eligible after meeting performance criteria. <|end_answer|>
+
+<|start_query|> Query: What platforms offer online learning? <|end_query|>
+<|start_answer|> Answer: Partnerships with Coursera, edX, and Udacity enable access to various professional courses. <|end_answer|>
+
+<|start_query|> Query: Does the college provide internship opportunities? <|end_query|>
+<|start_answer|> Answer: The placement cell collaborates with companies to offer internships in various domains. <|end_answer|>
+
+<|start_query|> Query: Are internships mandatory for graduation? <|end_query|>
+<|start_answer|> Answer: Internships are mandatory for certain programs as part of the curriculum. <|end_answer|>
+
+<|start_query|> Query: Can students pursue international internships? <|end_query|>
+<|start_answer|> Answer: Absolutely, international internship opportunities are available through global partnerships. <|end_answer|>
+
+<|start_query|> Query: How do I apply for internships? <|end_query|>
+<|start_answer|> Answer: Students can apply via the placement portal or approach faculty advisors for guidance. <|end_answer|>
+
+<|start_query|> Query: What on-campus facilities are available? <|end_query|>
+<|start_answer|> Answer: Facilities include health centers, bookstores, stationery shops, and banking services. <|end_answer|>
+
+<|start_query|> Query: Are there part-time jobs on campus? <|end_query|>
+<|start_answer|> Answer: Yes, part-time roles like library assistants and research aides are available for students. <|end_answer|>
+
+<|start_query|> Query: Is on-campus accommodation available for all students? <|end_query|>
+<|start_answer|> Answer: Hostel accommodation is provided on a first-come, first-served basis with priority for freshmen. <|end_answer|>
+
+<|start_query|> Query: Are there meal plans for day scholars? <|end_query|>
+<|start_answer|> Answer: Day scholars can opt for meal plans providing access to campus dining facilities. <|end_answer|>
+
+<|start_query|> Query: Can you tell me what tech courses are available? <|end_query|>
+<|start_answer|> Answer: Courses in computer science, AI, cybersecurity, and data analytics are offered for tech enthusiasts. <|end_answer|>
+
+<|start_query|> Query: Are there non-tech courses available? <|end_query|>
+<|start_answer|> Answer: Non-tech options include psychology, business management, media studies, and literature programs. <|end_answer|>
+
+<|start_query|> Query: Can students switch courses after admission? <|end_query|>
+<|start_answer|> Answer: Course changes are allowed during the add-drop period, subject to academic regulations. <|end_answer|>
+
+<|start_query|> Query: Are interdisciplinary courses available? <|end_query|>
+<|start_answer|> Answer: Indeed, students can enroll in interdisciplinary electives blending technology, business, and humanities. <|end_answer|>
+
+<|start_query|> Query: Can you tell me what are the hostel facilities available? <|end_query|>
+<|start_answer|> Answer: The hostel provides furnished rooms, Wi-Fi, laundry services, and common rooms for recreation. <|end_answer|>
+
+<|start_query|> Query: How can I apply for hostel accommodation? <|end_query|>
+<|start_answer|> Answer: You can apply for hostel accommodation through the student portal during the admission process. <|end_answer|>
+
+<|start_query|> Query: Are there separate hostels for boys and girls? <|end_query|>
+<|start_answer|> Answer: Yes, the campus has separate hostels for boys and girls, each with dedicated wardens. <|end_answer|>
+
+<|start_query|> Query: Could you describe what are the hostel rules and timings? <|end_query|>
+<|start_answer|> Answer: Hostel rules include curfew timings, visitor policies, and guidelines to ensure a safe living environment. <|end_answer|>
+
+<|start_query|> Query: What is the admission process? <|end_query|>
+<|start_answer|> Answer: Admissions are based on entrance exams, merit, and interviews, depending on the program. <|end_answer|>
+
+<|start_query|> Query: Are there any entrance exams required? <|end_query|>
+<|start_answer|> Answer: Yes, some programs require entrance exams. Check the admissions brochure for details. <|end_answer|>
+
+<|start_query|> Query: What documents are needed for admission? <|end_query|>
+<|start_answer|> Answer: You need academic transcripts, ID proof, entrance exam scores, and passport-sized photos. <|end_answer|>
+
+<|start_query|> Query: Is there any admission helpline available? <|end_query|>
+<|start_answer|> Answer: Yes, the admissions office provides support via email and phone during business hours. <|end_answer|>
+
+<|start_query|> Query: What scholarships are offered? <|end_query|>
+<|start_answer|> Answer: Merit-based, need-based, and sports scholarships are available. Details are on the scholarships page. <|end_answer|>
+
+<|start_query|> Query: How to apply for scholarships? <|end_query|>
+<|start_answer|> Answer: Submit the scholarship form online along with required documents during the admission process. <|end_answer|>
+
+<|start_query|> Query: Are scholarships renewed every year? <|end_query|>
+<|start_answer|> Answer: Scholarships are renewed annually based on academic performance and other criteria. <|end_answer|>
+
+<|start_query|> Query: Is there financial aid for international students? <|end_query|>
+<|start_answer|> Answer: Yes, limited scholarships are available for international students based on merit and need. <|end_answer|>
+
+<|start_query|> Query: Can you tell me what is campus life like? <|end_query|>
+<|start_answer|> Answer: Campus life is vibrant, with various clubs, cultural events, and academic activities throughout the year. <|end_answer|>
+
+<|start_query|> Query: Are there common areas for students to relax? <|end_query|>
+<|start_answer|> Answer: Yes, there are student lounges, gardens, and recreational areas for students to relax and socialize. <|end_answer|>
+
+<|start_query|> Query: What safety measures are in place on campus? <|end_query|>
+<|start_answer|> Answer: The campus has 24/7 security, CCTV surveillance, and emergency response systems. <|end_answer|>
+
+<|start_query|> Query: Are there any mentorship programs? <|end_query|>
+<|start_answer|> Answer: Yes, mentorship programs connect students with faculty and senior peers for guidance. <|end_answer|>
+
+<|start_query|> Query: How is the hostel environment? <|end_query|>
+<|start_answer|> Answer: The hostel offers a supportive environment with study groups, recreational activities, and cultural nights. <|end_answer|>
+
+<|start_query|> Query: What are the dining options in the hostel? <|end_query|>
+<|start_answer|> Answer: The hostel mess provides nutritious meals with vegetarian and non-vegetarian options. <|end_answer|>
+
+<|start_query|> Query: Is there Wi-Fi available in hostels? <|end_query|>
+<|start_answer|> Answer: Absolutely, all hostels have high-speed Wi-Fi for academic and personal use. <|end_answer|>
+
+<|start_query|> Query: Can you tell me what recreational activities are available in hostels? <|end_query|>
+<|start_answer|> Answer: Hostels have indoor games, TV rooms, and fitness areas for relaxation and leisure. <|end_answer|>
+
+<|start_query|> Query: How do I join campus clubs? <|end_query|>
+<|start_answer|> Answer: Join clubs during the annual club fair or by signing up with the respective club coordinators. <|end_answer|>
+
+<|start_query|> Query: I would like to know what are the popular clubs on campus? <|end_query|>
+<|start_answer|> Answer: Popular clubs include coding clubs, dance societies, debate teams, and photography groups. <|end_answer|>
+
+<|start_query|> Query: Are there inter-college competitions? <|end_query|>
+<|start_answer|> Answer: Yes, students regularly participate in inter-college technical, cultural, and sports competitions. <|end_answer|>
+
+<|start_query|> Query: Can students form new clubs? <|end_query|>
+<|start_answer|> Answer: Students can propose new clubs by submitting a plan to the student council for approval. <|end_answer|>
+
+<|start_query|> Query: What are popular after-college activities? <|end_query|>
+<|start_answer|> Answer: Students engage in workshops, part-time jobs, and explore local attractions after classes. <|end_answer|>
+
+<|start_query|> Query: Are there evening sports sessions? <|end_query|>
+<|start_answer|> Answer: Yes, evening sports sessions are held on the sports ground, including football and cricket matches. <|end_answer|>
+
+<|start_query|> Query: Is there support for performing arts? <|end_query|>
+<|start_answer|> Answer: Yes, cultural committees support music, dance, and theater activities with regular performances. <|end_answer|>
+
+<|start_query|> Query: Can students volunteer for social causes? <|end_query|>
+<|start_answer|> Answer: Volunteer opportunities are available with campus clubs and local NGOs for community service. <|end_answer|>
+
+<|start_query|> Query: Could you describe what food options are available on campus? <|end_query|>
+<|start_answer|> Answer: The campus has multiple food courts offering diverse cuisines at affordable prices. <|end_answer|>
+
+<|start_query|> Query: Are there vegetarian food options? <|end_query|>
+<|start_answer|> Answer: Yes, vegetarian options are available in all campus eateries and the hostel mess. <|end_answer|>
+
+<|start_query|> Query: Does the campus have cafes? <|end_query|>
+<|start_answer|> Answer: Yes, there are cafes serving snacks, beverages, and light meals perfect for study breaks. <|end_answer|>
+
+<|start_query|> Query: Are late-night snacks available? <|end_query|>
+<|start_answer|> Answer: Yes, some cafes and vending machines are accessible late at night for snacks. <|end_answer|>
+
+<|start_query|> Query: Could you describe what are the library timings? <|end_query|>
+<|start_answer|> Answer: The library is open from 8 AM to 10 PM on weekdays and 9 AM to 5 PM on weekends. <|end_answer|>
+
+<|start_query|> Query: Can I borrow books from the library? <|end_query|>
+<|start_answer|> Answer: Yes, students can borrow books using their ID card for a specified duration. <|end_answer|>
+
+<|start_query|> Query: Are digital resources available? <|end_query|>
+<|start_answer|> Answer: Yes, the library offers access to e-books, journals, and research databases. <|end_answer|>
+
+<|start_query|> Query: Is there a quiet study area? <|end_query|>
+<|start_answer|> Answer: Yes, designated quiet zones are available in the library for focused study. <|end_answer|>
+
+<|start_query|> Query: Is there a gym on campus? <|end_query|>
+<|start_answer|> Answer: Certainly, the campus gym is equipped with modern fitness equipment and personal trainers. <|end_answer|>
+
+<|start_query|> Query: What are the gym timings? <|end_query|>
+<|start_answer|> Answer: The gym is open from 6 AM to 9 PM, with separate sessions for men and women. <|end_answer|>
+
+<|start_query|> Query: Are there group fitness classes? <|end_query|>
+<|start_answer|> Answer: Yes, group fitness classes like yoga, Zumba, and aerobics are conducted regularly. <|end_answer|>
+
+<|start_query|> Query: Do students need to pay for the gym? <|end_query|>
+<|start_answer|> Answer: Gym membership is included in hostel fees, and day scholars can subscribe separately. <|end_answer|>
+
+<|start_query|> Query: What are the placement statistics? <|end_query|>
+<|start_answer|> Answer: The placement cell publishes annual reports showcasing placement percentages and top recruiters. <|end_answer|>
+
+<|start_query|> Query: Which companies visit for placements? <|end_query|>
+<|start_answer|> Answer: Top companies from IT, finance, and consulting sectors visit for campus placements. <|end_answer|>
+
+<|start_query|> Query: Is there pre-placement training? <|end_query|>
+<|start_answer|> Answer: Yes, pre-placement training includes mock interviews, resume building, and aptitude tests. <|end_answer|>
+
+<|start_query|> Query: How do I register for placements? <|end_query|>
+<|start_answer|> Answer: Register through the placement portal by submitting required documents and preferences. <|end_answer|>
+
+<|start_query|> Query: Could you describe what awards are given to students? <|end_query|>
+<|start_answer|> Answer: Awards include academic excellence, leadership, innovation, and community service recognitions. <|end_answer|>
+
+<|start_query|> Query: Are there scholarships for top performers? <|end_query|>
+<|start_answer|> Answer: Indeed, top-performing students receive merit scholarships and academic awards each semester. <|end_answer|>
+
+<|start_query|> Query: How are award winners selected? <|end_query|>
+<|start_answer|> Answer: Award recipients are chosen based on academic records, extracurricular achievements, and leadership roles. <|end_answer|>
+
+<|start_query|> Query: Is there a convocation ceremony? <|end_query|>
+<|start_answer|> Answer: Yes, the convocation ceremony includes degree conferral and award presentations for graduates. <|end_answer|>
+
+<|start_query|> Query: Can you tell me what is the faculty-student ratio? <|end_query|>
+<|start_answer|> Answer: The faculty-student ratio ensures personalized attention and effective mentorship. <|end_answer|>
+
+<|start_query|> Query: Are faculty members industry-experienced? <|end_query|>
+<|start_answer|> Answer: Many faculty members have extensive industry experience and academic expertise. <|end_answer|>
+
+<|start_query|> Query: How accessible are faculty members? <|end_query|>
+<|start_answer|> Answer: Faculty members are available during office hours and by appointment for student consultations. <|end_answer|>
+
+<|start_query|> Query: Do faculties engage in research? <|end_query|>
+<|start_answer|> Answer: Yes, faculty members actively participate in research projects and publish in reputed journals. <|end_answer|>
+
+<|start_query|> Query: What sports facilities are available? <|end_query|>
+<|start_answer|> Answer: Facilities include cricket grounds, football fields, tennis courts, and indoor sports complexes. <|end_answer|>
+
+<|start_query|> Query: Are there sports scholarships? <|end_query|>
+<|start_answer|> Answer: Yes, sports scholarships are awarded based on performance in national and state-level events. <|end_answer|>
+
+<|start_query|> Query: Is there a sports fest? <|end_query|>
+<|start_answer|> Answer: An annual sports fest invites participation from various colleges in multiple disciplines. <|end_answer|>
+
+<|start_query|> Query: Can beginners join sports teams? <|end_query|>
+<|start_answer|> Answer: Yes, beginners can join training sessions and represent the college after selection trials. <|end_answer|>
+
+<|start_query|> Query: I would like to know what major events are held on campus? <|end_query|>
+<|start_answer|> Answer: Annual tech fests, cultural nights, and sports tournaments are key highlights of campus life. <|end_answer|>
+
+<|start_query|> Query: What's the process to can I participate in events? <|end_query|>
+<|start_answer|> Answer: Event registrations are announced on the student portal and campus notice boards. <|end_answer|>
+
+<|start_query|> Query: Are there guest lectures? <|end_query|>
+<|start_answer|> Answer: Renowned industry experts and alumni are invited for guest lectures throughout the academic year. <|end_answer|>
+
+<|start_query|> Query: What cultural festivals are organized? <|end_query|>
+<|start_answer|> Answer: Cultural festivals include dance competitions, music shows, and drama performances celebrating diversity. <|end_answer|>
+
+<|start_query|> Query: Does the college offer online courses? <|end_query|>
+<|start_answer|> Answer: Yes, online certifications in data science, AI, and management are available through partner platforms. <|end_answer|>
+
+<|start_query|> Query: Are online courses part of the curriculum? <|end_query|>
+<|start_answer|> Answer: Some online courses are integrated into the curriculum for skill enhancement. <|end_answer|>
+
+<|start_query|> Query: Can students get credits for online courses? <|end_query|>
+<|start_answer|> Answer: Indeed, select online courses are credit-eligible after meeting performance criteria. <|end_answer|>
+
+<|start_query|> Query: What platforms offer online learning? <|end_query|>
+<|start_answer|> Answer: Partnerships with Coursera, edX, and Udacity enable access to various professional courses. <|end_answer|>
+
+<|start_query|> Query: Does the college provide internship opportunities? <|end_query|>
+<|start_answer|> Answer: The placement cell collaborates with companies to offer internships in various domains. <|end_answer|>
+
+<|start_query|> Query: Are internships mandatory for graduation? <|end_query|>
+<|start_answer|> Answer: Internships are mandatory for certain programs as part of the curriculum. <|end_answer|>
+
+<|start_query|> Query: Can students pursue international internships? <|end_query|>
+<|start_answer|> Answer: Yes, international internship opportunities are available through global partnerships. <|end_answer|>
+
+<|start_query|> Query: How do I apply for internships? <|end_query|>
+<|start_answer|> Answer: Students can apply via the placement portal or approach faculty advisors for guidance. <|end_answer|>
+
+<|start_query|> Query: What on-campus facilities are available? <|end_query|>
+<|start_answer|> Answer: Facilities include health centers, bookstores, stationery shops, and banking services. <|end_answer|>
+
+<|start_query|> Query: Are there part-time jobs on campus? <|end_query|>
+<|start_answer|> Answer: Yes, part-time roles like library assistants and research aides are available for students. <|end_answer|>
+
+<|start_query|> Query: Is on-campus accommodation available for all students? <|end_query|>
+<|start_answer|> Answer: Hostel accommodation is provided on a first-come, first-served basis with priority for freshmen. <|end_answer|>
+
+<|start_query|> Query: Are there meal plans for day scholars? <|end_query|>
+<|start_answer|> Answer: Day scholars can opt for meal plans providing access to campus dining facilities. <|end_answer|>
+
+<|start_query|> Query: I would like to know what tech courses are available? <|end_query|>
+<|start_answer|> Answer: Courses in computer science, AI, cybersecurity, and data analytics are offered for tech enthusiasts. <|end_answer|>
+
+<|start_query|> Query: Are there non-tech courses available? <|end_query|>
+<|start_answer|> Answer: Non-tech options include psychology, business management, media studies, and literature programs. <|end_answer|>
+
+<|start_query|> Query: Can students switch courses after admission? <|end_query|>
+<|start_answer|> Answer: Course changes are allowed during the add-drop period, subject to academic regulations. <|end_answer|>
+
+<|start_query|> Query: Are interdisciplinary courses available? <|end_query|>
+<|start_answer|> Answer: Yes, students can enroll in interdisciplinary electives blending technology, business, and humanities. <|end_answer|>
+
+<|start_query|> Query: What are the hostel facilities available? <|end_query|>
+<|start_answer|> Answer: The hostel provides furnished rooms, Wi-Fi, laundry services, and common rooms for recreation. <|end_answer|>
+
+<|start_query|> Query: How can I apply for hostel accommodation? <|end_query|>
+<|start_answer|> Answer: You can apply for hostel accommodation through the student portal during the admission process. <|end_answer|>
+
+<|start_query|> Query: Are there separate hostels for boys and girls? <|end_query|>
+<|start_answer|> Answer: Certainly, the campus has separate hostels for boys and girls, each with dedicated wardens. <|end_answer|>
+
+<|start_query|> Query: Could you describe what are the hostel rules and timings? <|end_query|>
+<|start_answer|> Answer: Hostel rules include curfew timings, visitor policies, and guidelines to ensure a safe living environment. <|end_answer|>
+
+<|start_query|> Query: What is the admission process? <|end_query|>
+<|start_answer|> Answer: Admissions are based on entrance exams, merit, and interviews, depending on the program. <|end_answer|>
+
+<|start_query|> Query: Are there any entrance exams required? <|end_query|>
+<|start_answer|> Answer: Yes, some programs require entrance exams. Check the admissions brochure for details. <|end_answer|>
+
+<|start_query|> Query: What documents are needed for admission? <|end_query|>
+<|start_answer|> Answer: You need academic transcripts, ID proof, entrance exam scores, and passport-sized photos. <|end_answer|>
+
+<|start_query|> Query: Is there any admission helpline available? <|end_query|>
+<|start_answer|> Answer: Yes, the admissions office provides support via email and phone during business hours. <|end_answer|>
+
+<|start_query|> Query: I would like to know what scholarships are offered? <|end_query|>
+<|start_answer|> Answer: Merit-based, need-based, and sports scholarships are available. Details are on the scholarships page. <|end_answer|>
+
+<|start_query|> Query: How to apply for scholarships? <|end_query|>
+<|start_answer|> Answer: Submit the scholarship form online along with required documents during the admission process. <|end_answer|>
+
+<|start_query|> Query: Are scholarships renewed every year? <|end_query|>
+<|start_answer|> Answer: Scholarships are renewed annually based on academic performance and other criteria. <|end_answer|>
+
+<|start_query|> Query: Is there financial aid for international students? <|end_query|>
+<|start_answer|> Answer: Certainly, limited scholarships are available for international students based on merit and need. <|end_answer|>
+
+<|start_query|> Query: Could you describe what is campus life like? <|end_query|>
+<|start_answer|> Answer: Campus life is vibrant, with various clubs, cultural events, and academic activities throughout the year. <|end_answer|>
+
+<|start_query|> Query: Are there common areas for students to relax? <|end_query|>
+<|start_answer|> Answer: Yes, there are student lounges, gardens, and recreational areas for students to relax and socialize. <|end_answer|>
+
+<|start_query|> Query: What safety measures are in place on campus? <|end_query|>
+<|start_answer|> Answer: The campus has 24/7 security, CCTV surveillance, and emergency response systems. <|end_answer|>
+
+<|start_query|> Query: Are there any mentorship programs? <|end_query|>
+<|start_answer|> Answer: Yes, mentorship programs connect students with faculty and senior peers for guidance. <|end_answer|>
+
+<|start_query|> Query: How is the hostel environment? <|end_query|>
+<|start_answer|> Answer: The hostel offers a supportive environment with study groups, recreational activities, and cultural nights. <|end_answer|>
+
+<|start_query|> Query: Could you describe what are the dining options in the hostel? <|end_query|>
+<|start_answer|> Answer: The hostel mess provides nutritious meals with vegetarian and non-vegetarian options. <|end_answer|>
+
+<|start_query|> Query: Is there Wi-Fi available in hostels? <|end_query|>
+<|start_answer|> Answer: Yes, all hostels have high-speed Wi-Fi for academic and personal use. <|end_answer|>
+
+<|start_query|> Query: What recreational activities are available in hostels? <|end_query|>
+<|start_answer|> Answer: Hostels have indoor games, TV rooms, and fitness areas for relaxation and leisure. <|end_answer|>
+
+<|start_query|> Query: Could you explain how do I join campus clubs? <|end_query|>
+<|start_answer|> Answer: Join clubs during the annual club fair or by signing up with the respective club coordinators. <|end_answer|>
+
+<|start_query|> Query: What are the popular clubs on campus? <|end_query|>
+<|start_answer|> Answer: Popular clubs include coding clubs, dance societies, debate teams, and photography groups. <|end_answer|>
+
+<|start_query|> Query: Are there inter-college competitions? <|end_query|>
+<|start_answer|> Answer: Yes, students regularly participate in inter-college technical, cultural, and sports competitions. <|end_answer|>
+
+<|start_query|> Query: Can students form new clubs? <|end_query|>
+<|start_answer|> Answer: Students can propose new clubs by submitting a plan to the student council for approval. <|end_answer|>
+
+<|start_query|> Query: What are popular after-college activities? <|end_query|>
+<|start_answer|> Answer: Students engage in workshops, part-time jobs, and explore local attractions after classes. <|end_answer|>
+
+<|start_query|> Query: Are there evening sports sessions? <|end_query|>
+<|start_answer|> Answer: Yes, evening sports sessions are held on the sports ground, including football and cricket matches. <|end_answer|>
+
+<|start_query|> Query: Is there support for performing arts? <|end_query|>
+<|start_answer|> Answer: Certainly, cultural committees support music, dance, and theater activities with regular performances. <|end_answer|>
+
+<|start_query|> Query: Can students volunteer for social causes? <|end_query|>
+<|start_answer|> Answer: Volunteer opportunities are available with campus clubs and local NGOs for community service. <|end_answer|>
+
+<|start_query|> Query: What food options are available on campus? <|end_query|>
+<|start_answer|> Answer: The campus has multiple food courts offering diverse cuisines at affordable prices. <|end_answer|>
+
+<|start_query|> Query: Are there vegetarian food options? <|end_query|>
+<|start_answer|> Answer: Yes, vegetarian options are available in all campus eateries and the hostel mess. <|end_answer|>
+
+<|start_query|> Query: Does the campus have cafes? <|end_query|>
+<|start_answer|> Answer: Absolutely, there are cafes serving snacks, beverages, and light meals perfect for study breaks. <|end_answer|>
+
+<|start_query|> Query: Are late-night snacks available? <|end_query|>
+<|start_answer|> Answer: Yes, some cafes and vending machines are accessible late at night for snacks. <|end_answer|>
+
+<|start_query|> Query: What are the library timings? <|end_query|>
+<|start_answer|> Answer: The library is open from 8 AM to 10 PM on weekdays and 9 AM to 5 PM on weekends. <|end_answer|>
+
+<|start_query|> Query: Can I borrow books from the library? <|end_query|>
+<|start_answer|> Answer: Yes, students can borrow books using their ID card for a specified duration. <|end_answer|>
+
+<|start_query|> Query: Are digital resources available? <|end_query|>
+<|start_answer|> Answer: Indeed, the library offers access to e-books, journals, and research databases. <|end_answer|>
+
+<|start_query|> Query: Is there a quiet study area? <|end_query|>
+<|start_answer|> Answer: Certainly, designated quiet zones are available in the library for focused study. <|end_answer|>
+
+<|start_query|> Query: Is there a gym on campus? <|end_query|>
+<|start_answer|> Answer: Yes, the campus gym is equipped with modern fitness equipment and personal trainers. <|end_answer|>
+
+<|start_query|> Query: I would like to know what are the gym timings? <|end_query|>
+<|start_answer|> Answer: The gym is open from 6 AM to 9 PM, with separate sessions for men and women. <|end_answer|>
+
+<|start_query|> Query: Are there group fitness classes? <|end_query|>
+<|start_answer|> Answer: Yes, group fitness classes like yoga, Zumba, and aerobics are conducted regularly. <|end_answer|>
+
+<|start_query|> Query: Do students need to pay for the gym? <|end_query|>
+<|start_answer|> Answer: Gym membership is included in hostel fees, and day scholars can subscribe separately. <|end_answer|>
+
+<|start_query|> Query: What are the placement statistics? <|end_query|>
+<|start_answer|> Answer: The placement cell publishes annual reports showcasing placement percentages and top recruiters. <|end_answer|>
+
+<|start_query|> Query: Which companies visit for placements? <|end_query|>
+<|start_answer|> Answer: Top companies from IT, finance, and consulting sectors visit for campus placements. <|end_answer|>
+
+<|start_query|> Query: Is there pre-placement training? <|end_query|>
+<|start_answer|> Answer: Absolutely, pre-placement training includes mock interviews, resume building, and aptitude tests. <|end_answer|>
+
+<|start_query|> Query: Could you explain how do I register for placements? <|end_query|>
+<|start_answer|> Answer: Register through the placement portal by submitting required documents and preferences. <|end_answer|>
+
+<|start_query|> Query: What awards are given to students? <|end_query|>
+<|start_answer|> Answer: Awards include academic excellence, leadership, innovation, and community service recognitions. <|end_answer|>
+
+<|start_query|> Query: Are there scholarships for top performers? <|end_query|>
+<|start_answer|> Answer: Yes, top-performing students receive merit scholarships and academic awards each semester. <|end_answer|>
+
+<|start_query|> Query: How are award winners selected? <|end_query|>
+<|start_answer|> Answer: Award recipients are chosen based on academic records, extracurricular achievements, and leadership roles. <|end_answer|>
+
+<|start_query|> Query: Is there a convocation ceremony? <|end_query|>
+<|start_answer|> Answer: Yes, the convocation ceremony includes degree conferral and award presentations for graduates. <|end_answer|>
+
+<|start_query|> Query: What is the faculty-student ratio? <|end_query|>
+<|start_answer|> Answer: The faculty-student ratio ensures personalized attention and effective mentorship. <|end_answer|>
+
+<|start_query|> Query: Are faculty members industry-experienced? <|end_query|>
+<|start_answer|> Answer: Many faculty members have extensive industry experience and academic expertise. <|end_answer|>
+
+<|start_query|> Query: How accessible are faculty members? <|end_query|>
+<|start_answer|> Answer: Faculty members are available during office hours and by appointment for student consultations. <|end_answer|>
+
+<|start_query|> Query: Do faculties engage in research? <|end_query|>
+<|start_answer|> Answer: Absolutely, faculty members actively participate in research projects and publish in reputed journals. <|end_answer|>
+
+<|start_query|> Query: What sports facilities are available? <|end_query|>
+<|start_answer|> Answer: Facilities include cricket grounds, football fields, tennis courts, and indoor sports complexes. <|end_answer|>
+
+<|start_query|> Query: Are there sports scholarships? <|end_query|>
+<|start_answer|> Answer: Yes, sports scholarships are awarded based on performance in national and state-level events. <|end_answer|>
+
+<|start_query|> Query: Is there a sports fest? <|end_query|>
+<|start_answer|> Answer: An annual sports fest invites participation from various colleges in multiple disciplines. <|end_answer|>
+
+<|start_query|> Query: Can beginners join sports teams? <|end_query|>
+<|start_answer|> Answer: Yes, beginners can join training sessions and represent the college after selection trials. <|end_answer|>
+
+<|start_query|> Query: What major events are held on campus? <|end_query|>
+<|start_answer|> Answer: Annual tech fests, cultural nights, and sports tournaments are key highlights of campus life. <|end_answer|>
+
+<|start_query|> Query: How can I participate in events? <|end_query|>
+<|start_answer|> Answer: Event registrations are announced on the student portal and campus notice boards. <|end_answer|>
+
+<|start_query|> Query: Are there guest lectures? <|end_query|>
+<|start_answer|> Answer: Renowned industry experts and alumni are invited for guest lectures throughout the academic year. <|end_answer|>
+
+<|start_query|> Query: What cultural festivals are organized? <|end_query|>
+<|start_answer|> Answer: Cultural festivals include dance competitions, music shows, and drama performances celebrating diversity. <|end_answer|>
+
+<|start_query|> Query: Does the college offer online courses? <|end_query|>
+<|start_answer|> Answer: Absolutely, online certifications in data science, AI, and management are available through partner platforms. <|end_answer|>
+
+<|start_query|> Query: Are online courses part of the curriculum? <|end_query|>
+<|start_answer|> Answer: Some online courses are integrated into the curriculum for skill enhancement. <|end_answer|>
+
+<|start_query|> Query: Can students get credits for online courses? <|end_query|>
+<|start_answer|> Answer: Yes, select online courses are credit-eligible after meeting performance criteria. <|end_answer|>
+
+<|start_query|> Query: Could you describe what platforms offer online learning? <|end_query|>
+<|start_answer|> Answer: Partnerships with Coursera, edX, and Udacity enable access to various professional courses. <|end_answer|>
+
+<|start_query|> Query: Does the college provide internship opportunities? <|end_query|>
+<|start_answer|> Answer: The placement cell collaborates with companies to offer internships in various domains. <|end_answer|>
+
+<|start_query|> Query: Are internships mandatory for graduation? <|end_query|>
+<|start_answer|> Answer: Internships are mandatory for certain programs as part of the curriculum. <|end_answer|>
+
+<|start_query|> Query: Can students pursue international internships? <|end_query|>
+<|start_answer|> Answer: Yes, international internship opportunities are available through global partnerships. <|end_answer|>
+
+<|start_query|> Query: Where can I find information on do I apply for internships? <|end_query|>
+<|start_answer|> Answer: Students can apply via the placement portal or approach faculty advisors for guidance. <|end_answer|>
+
+<|start_query|> Query: Could you describe what on-campus facilities are available? <|end_query|>
+<|start_answer|> Answer: Facilities include health centers, bookstores, stationery shops, and banking services. <|end_answer|>
+
+<|start_query|> Query: Are there part-time jobs on campus? <|end_query|>
+<|start_answer|> Answer: Absolutely, part-time roles like library assistants and research aides are available for students. <|end_answer|>
+
+<|start_query|> Query: Is on-campus accommodation available for all students? <|end_query|>
+<|start_answer|> Answer: Hostel accommodation is provided on a first-come, first-served basis with priority for freshmen. <|end_answer|>
+
+<|start_query|> Query: Are there meal plans for day scholars? <|end_query|>
+<|start_answer|> Answer: Day scholars can opt for meal plans providing access to campus dining facilities. <|end_answer|>
+
+<|start_query|> Query: Could you describe what tech courses are available? <|end_query|>
+<|start_answer|> Answer: Courses in computer science, AI, cybersecurity, and data analytics are offered for tech enthusiasts. <|end_answer|>
+
+<|start_query|> Query: Are there non-tech courses available? <|end_query|>
+<|start_answer|> Answer: Non-tech options include psychology, business management, media studies, and literature programs. <|end_answer|>
+
+<|start_query|> Query: Can students switch courses after admission? <|end_query|>
+<|start_answer|> Answer: Course changes are allowed during the add-drop period, subject to academic regulations. <|end_answer|>
+
+<|start_query|> Query: Are interdisciplinary courses available? <|end_query|>
+<|start_answer|> Answer: Yes, students can enroll in interdisciplinary electives blending technology, business, and humanities. <|end_answer|>
+
+<|start_query|> Query: What are the hostel facilities available? <|end_query|>
+<|start_answer|> Answer: The hostel provides furnished rooms, Wi-Fi, laundry services, and common rooms for recreation. <|end_answer|>
+
+<|start_query|> Query: How can I apply for hostel accommodation? <|end_query|>
+<|start_answer|> Answer: You can apply for hostel accommodation through the student portal during the admission process. <|end_answer|>
+
+<|start_query|> Query: Are there separate hostels for boys and girls? <|end_query|>
+<|start_answer|> Answer: Absolutely, the campus has separate hostels for boys and girls, each with dedicated wardens. <|end_answer|>
+
+<|start_query|> Query: What are the hostel rules and timings? <|end_query|>
+<|start_answer|> Answer: Hostel rules include curfew timings, visitor policies, and guidelines to ensure a safe living environment. <|end_answer|>
+
+<|start_query|> Query: Can you tell me what is the admission process? <|end_query|>
+<|start_answer|> Answer: Admissions are based on entrance exams, merit, and interviews, depending on the program. <|end_answer|>
+
+<|start_query|> Query: Are there any entrance exams required? <|end_query|>
+<|start_answer|> Answer: Yes, some programs require entrance exams. Check the admissions brochure for details. <|end_answer|>
+
+<|start_query|> Query: What documents are needed for admission? <|end_query|>
+<|start_answer|> Answer: You need academic transcripts, ID proof, entrance exam scores, and passport-sized photos. <|end_answer|>
+
+<|start_query|> Query: Is there any admission helpline available? <|end_query|>
+<|start_answer|> Answer: Yes, the admissions office provides support via email and phone during business hours. <|end_answer|>
+
+<|start_query|> Query: What scholarships are offered? <|end_query|>
+<|start_answer|> Answer: Merit-based, need-based, and sports scholarships are available. Details are on the scholarships page. <|end_answer|>
+
+<|start_query|> Query: What's the process to to apply for scholarships? <|end_query|>
+<|start_answer|> Answer: Submit the scholarship form online along with required documents during the admission process. <|end_answer|>
+
+<|start_query|> Query: Are scholarships renewed every year? <|end_query|>
+<|start_answer|> Answer: Scholarships are renewed annually based on academic performance and other criteria. <|end_answer|>
+
+<|start_query|> Query: Is there financial aid for international students? <|end_query|>
+<|start_answer|> Answer: Yes, limited scholarships are available for international students based on merit and need. <|end_answer|>
+
+<|start_query|> Query: What is campus life like? <|end_query|>
+<|start_answer|> Answer: Campus life is vibrant, with various clubs, cultural events, and academic activities throughout the year. <|end_answer|>
+
+<|start_query|> Query: Are there common areas for students to relax? <|end_query|>
+<|start_answer|> Answer: Yes, there are student lounges, gardens, and recreational areas for students to relax and socialize. <|end_answer|>
+
+<|start_query|> Query: What safety measures are in place on campus? <|end_query|>
+<|start_answer|> Answer: The campus has 24/7 security, CCTV surveillance, and emergency response systems. <|end_answer|>
+
+<|start_query|> Query: Are there any mentorship programs? <|end_query|>
+<|start_answer|> Answer: Yes, mentorship programs connect students with faculty and senior peers for guidance. <|end_answer|>
+
+<|start_query|> Query: How is the hostel environment? <|end_query|>
+<|start_answer|> Answer: The hostel offers a supportive environment with study groups, recreational activities, and cultural nights. <|end_answer|>
+
+<|start_query|> Query: What are the dining options in the hostel? <|end_query|>
+<|start_answer|> Answer: The hostel mess provides nutritious meals with vegetarian and non-vegetarian options. <|end_answer|>
+
+<|start_query|> Query: Is there Wi-Fi available in hostels? <|end_query|>
+<|start_answer|> Answer: Yes, all hostels have high-speed Wi-Fi for academic and personal use. <|end_answer|>
+
+<|start_query|> Query: I would like to know what recreational activities are available in hostels? <|end_query|>
+<|start_answer|> Answer: Hostels have indoor games, TV rooms, and fitness areas for relaxation and leisure. <|end_answer|>
+
+<|start_query|> Query: How do I join campus clubs? <|end_query|>
+<|start_answer|> Answer: Join clubs during the annual club fair or by signing up with the respective club coordinators. <|end_answer|>
+
+<|start_query|> Query: Can you tell me what are the popular clubs on campus? <|end_query|>
+<|start_answer|> Answer: Popular clubs include coding clubs, dance societies, debate teams, and photography groups. <|end_answer|>
+
+<|start_query|> Query: Are there inter-college competitions? <|end_query|>
+<|start_answer|> Answer: Yes, students regularly participate in inter-college technical, cultural, and sports competitions. <|end_answer|>
+
+<|start_query|> Query: Can students form new clubs? <|end_query|>
+<|start_answer|> Answer: Students can propose new clubs by submitting a plan to the student council for approval. <|end_answer|>
+
+<|start_query|> Query: Could you describe what are popular after-college activities? <|end_query|>
+<|start_answer|> Answer: Students engage in workshops, part-time jobs, and explore local attractions after classes. <|end_answer|>
+
+<|start_query|> Query: Are there evening sports sessions? <|end_query|>
+<|start_answer|> Answer: Absolutely, evening sports sessions are held on the sports ground, including football and cricket matches. <|end_answer|>
+
+<|start_query|> Query: Is there support for performing arts? <|end_query|>
+<|start_answer|> Answer: Absolutely, cultural committees support music, dance, and theater activities with regular performances. <|end_answer|>
+
+<|start_query|> Query: Can students volunteer for social causes? <|end_query|>
+<|start_answer|> Answer: Volunteer opportunities are available with campus clubs and local NGOs for community service. <|end_answer|>
+
+<|start_query|> Query: What food options are available on campus? <|end_query|>
+<|start_answer|> Answer: The campus has multiple food courts offering diverse cuisines at affordable prices. <|end_answer|>
+
+<|start_query|> Query: Are there vegetarian food options? <|end_query|>
+<|start_answer|> Answer: Yes, vegetarian options are available in all campus eateries and the hostel mess. <|end_answer|>
+
+<|start_query|> Query: Does the campus have cafes? <|end_query|>
+<|start_answer|> Answer: Yes, there are cafes serving snacks, beverages, and light meals perfect for study breaks. <|end_answer|>
+
+<|start_query|> Query: Are late-night snacks available? <|end_query|>
+<|start_answer|> Answer: Yes, some cafes and vending machines are accessible late at night for snacks. <|end_answer|>
+
+<|start_query|> Query: What are the library timings? <|end_query|>
+<|start_answer|> Answer: The library is open from 8 AM to 10 PM on weekdays and 9 AM to 5 PM on weekends. <|end_answer|>
+
+<|start_query|> Query: Can I borrow books from the library? <|end_query|>
+<|start_answer|> Answer: Yes, students can borrow books using their ID card for a specified duration. <|end_answer|>
+
+<|start_query|> Query: Are digital resources available? <|end_query|>
+<|start_answer|> Answer: Absolutely, the library offers access to e-books, journals, and research databases. <|end_answer|>
+
+<|start_query|> Query: Is there a quiet study area? <|end_query|>
+<|start_answer|> Answer: Yes, designated quiet zones are available in the library for focused study. <|end_answer|>
+
+<|start_query|> Query: Is there a gym on campus? <|end_query|>
+<|start_answer|> Answer: Indeed, the campus gym is equipped with modern fitness equipment and personal trainers. <|end_answer|>
+
+<|start_query|> Query: Could you describe what are the gym timings? <|end_query|>
+<|start_answer|> Answer: The gym is open from 6 AM to 9 PM, with separate sessions for men and women. <|end_answer|>
+
+<|start_query|> Query: Are there group fitness classes? <|end_query|>
+<|start_answer|> Answer: Indeed, group fitness classes like yoga, Zumba, and aerobics are conducted regularly. <|end_answer|>
+
+<|start_query|> Query: Do students need to pay for the gym? <|end_query|>
+<|start_answer|> Answer: Gym membership is included in hostel fees, and day scholars can subscribe separately. <|end_answer|>
+
+<|start_query|> Query: I would like to know what are the placement statistics? <|end_query|>
+<|start_answer|> Answer: The placement cell publishes annual reports showcasing placement percentages and top recruiters. <|end_answer|>
+
+<|start_query|> Query: Which companies visit for placements? <|end_query|>
+<|start_answer|> Answer: Top companies from IT, finance, and consulting sectors visit for campus placements. <|end_answer|>
+
+<|start_query|> Query: Is there pre-placement training? <|end_query|>
+<|start_answer|> Answer: Yes, pre-placement training includes mock interviews, resume building, and aptitude tests. <|end_answer|>
+
+<|start_query|> Query: How do I register for placements? <|end_query|>
+<|start_answer|> Answer: Register through the placement portal by submitting required documents and preferences. <|end_answer|>
+
+<|start_query|> Query: What awards are given to students? <|end_query|>
+<|start_answer|> Answer: Awards include academic excellence, leadership, innovation, and community service recognitions. <|end_answer|>
+
+<|start_query|> Query: Are there scholarships for top performers? <|end_query|>
+<|start_answer|> Answer: Certainly, top-performing students receive merit scholarships and academic awards each semester. <|end_answer|>
+
+<|start_query|> Query: How are award winners selected? <|end_query|>
+<|start_answer|> Answer: Award recipients are chosen based on academic records, extracurricular achievements, and leadership roles. <|end_answer|>
+
+<|start_query|> Query: Is there a convocation ceremony? <|end_query|>
+<|start_answer|> Answer: Yes, the convocation ceremony includes degree conferral and award presentations for graduates. <|end_answer|>
+
+<|start_query|> Query: What is the faculty-student ratio? <|end_query|>
+<|start_answer|> Answer: The faculty-student ratio ensures personalized attention and effective mentorship. <|end_answer|>
+
+<|start_query|> Query: Are faculty members industry-experienced? <|end_query|>
+<|start_answer|> Answer: Many faculty members have extensive industry experience and academic expertise. <|end_answer|>
+
+<|start_query|> Query: How accessible are faculty members? <|end_query|>
+<|start_answer|> Answer: Faculty members are available during office hours and by appointment for student consultations. <|end_answer|>
+
+<|start_query|> Query: Do faculties engage in research? <|end_query|>
+<|start_answer|> Answer: Indeed, faculty members actively participate in research projects and publish in reputed journals. <|end_answer|>
+
+<|start_query|> Query: Can you tell me what sports facilities are available? <|end_query|>
+<|start_answer|> Answer: Facilities include cricket grounds, football fields, tennis courts, and indoor sports complexes. <|end_answer|>
+
+<|start_query|> Query: Are there sports scholarships? <|end_query|>
+<|start_answer|> Answer: Certainly, sports scholarships are awarded based on performance in national and state-level events. <|end_answer|>
+
+<|start_query|> Query: Is there a sports fest? <|end_query|>
+<|start_answer|> Answer: An annual sports fest invites participation from various colleges in multiple disciplines. <|end_answer|>
+
+<|start_query|> Query: Can beginners join sports teams? <|end_query|>
+<|start_answer|> Answer: Yes, beginners can join training sessions and represent the college after selection trials. <|end_answer|>
+
+<|start_query|> Query: What major events are held on campus? <|end_query|>
+<|start_answer|> Answer: Annual tech fests, cultural nights, and sports tournaments are key highlights of campus life. <|end_answer|>
+
+<|start_query|> Query: What's the process to can I participate in events? <|end_query|>
+<|start_answer|> Answer: Event registrations are announced on the student portal and campus notice boards. <|end_answer|>
+
+<|start_query|> Query: Are there guest lectures? <|end_query|>
+<|start_answer|> Answer: Renowned industry experts and alumni are invited for guest lectures throughout the academic year. <|end_answer|>
+
+<|start_query|> Query: What cultural festivals are organized? <|end_query|>
+<|start_answer|> Answer: Cultural festivals include dance competitions, music shows, and drama performances celebrating diversity. <|end_answer|>
+
+<|start_query|> Query: Does the college offer online courses? <|end_query|>
+<|start_answer|> Answer: Yes, online certifications in data science, AI, and management are available through partner platforms. <|end_answer|>
+
+<|start_query|> Query: Are online courses part of the curriculum? <|end_query|>
+<|start_answer|> Answer: Some online courses are integrated into the curriculum for skill enhancement. <|end_answer|>
+
+<|start_query|> Query: Can students get credits for online courses? <|end_query|>
+<|start_answer|> Answer: Yes, select online courses are credit-eligible after meeting performance criteria. <|end_answer|>
+
+<|start_query|> Query: Can you tell me what platforms offer online learning? <|end_query|>
+<|start_answer|> Answer: Partnerships with Coursera, edX, and Udacity enable access to various professional courses. <|end_answer|>
+
+<|start_query|> Query: Does the college provide internship opportunities? <|end_query|>
+<|start_answer|> Answer: The placement cell collaborates with companies to offer internships in various domains. <|end_answer|>
+
+<|start_query|> Query: Are internships mandatory for graduation? <|end_query|>
+<|start_answer|> Answer: Internships are mandatory for certain programs as part of the curriculum. <|end_answer|>
+
+<|start_query|> Query: Can students pursue international internships? <|end_query|>
+<|start_answer|> Answer: Yes, international internship opportunities are available through global partnerships. <|end_answer|>
+
+<|start_query|> Query: How do I apply for internships? <|end_query|>
+<|start_answer|> Answer: Students can apply via the placement portal or approach faculty advisors for guidance. <|end_answer|>
+
+<|start_query|> Query: What on-campus facilities are available? <|end_query|>
+<|start_answer|> Answer: Facilities include health centers, bookstores, stationery shops, and banking services. <|end_answer|>
+
+<|start_query|> Query: Are there part-time jobs on campus? <|end_query|>
+<|start_answer|> Answer: Yes, part-time roles like library assistants and research aides are available for students. <|end_answer|>
+
+<|start_query|> Query: Is on-campus accommodation available for all students? <|end_query|>
+<|start_answer|> Answer: Hostel accommodation is provided on a first-come, first-served basis with priority for freshmen. <|end_answer|>
+
+<|start_query|> Query: Are there meal plans for day scholars? <|end_query|>
+<|start_answer|> Answer: Day scholars can opt for meal plans providing access to campus dining facilities. <|end_answer|>
+
+<|start_query|> Query: What tech courses are available? <|end_query|>
+<|start_answer|> Answer: Courses in computer science, AI, cybersecurity, and data analytics are offered for tech enthusiasts. <|end_answer|>
+
+<|start_query|> Query: Are there non-tech courses available? <|end_query|>
+<|start_answer|> Answer: Non-tech options include psychology, business management, media studies, and literature programs. <|end_answer|>
+
+<|start_query|> Query: Can students switch courses after admission? <|end_query|>
+<|start_answer|> Answer: Course changes are allowed during the add-drop period, subject to academic regulations. <|end_answer|>
+
+<|start_query|> Query: Are interdisciplinary courses available? <|end_query|>
+<|start_answer|> Answer: Yes, students can enroll in interdisciplinary electives blending technology, business, and humanities. <|end_answer|>
+
+<|start_query|> Query: Could you describe what are the hostel facilities available? <|end_query|>
+<|start_answer|> Answer: The hostel provides furnished rooms, Wi-Fi, laundry services, and common rooms for recreation. <|end_answer|>
+
+<|start_query|> Query: Could you explain how can I apply for hostel accommodation? <|end_query|>
+<|start_answer|> Answer: Students may apply for hostel accommodation through the student portal during the admission process. <|end_answer|>
+
+<|start_query|> Query: Are there separate hostels for boys and girls? <|end_query|>
+<|start_answer|> Answer: Certainly, the campus has separate hostels for boys and girls, each with dedicated wardens. <|end_answer|>
+
+<|start_query|> Query: What are the hostel rules and timings? <|end_query|>
+<|start_answer|> Answer: Hostel rules include curfew timings, visitor policies, and guidelines to ensure a safe living environment. <|end_answer|>
+
+<|start_query|> Query: What is the admission process? <|end_query|>
+<|start_answer|> Answer: Admissions are based on entrance exams, merit, and interviews, depending on the program. <|end_answer|>
+
+<|start_query|> Query: Are there any entrance exams required? <|end_query|>
+<|start_answer|> Answer: Yes, some programs require entrance exams. Check the admissions brochure for details. <|end_answer|>
+
+<|start_query|> Query: What documents are needed for admission? <|end_query|>
+<|start_answer|> Answer: You need academic transcripts, ID proof, entrance exam scores, and passport-sized photos. <|end_answer|>
+
+<|start_query|> Query: Is there any admission helpline available? <|end_query|>
+<|start_answer|> Answer: Absolutely, the admissions office provides support via email and phone during business hours. <|end_answer|>
+
+<|start_query|> Query: What scholarships are offered? <|end_query|>
+<|start_answer|> Answer: Merit-based, need-based, and sports scholarships are available. Details are on the scholarships page. <|end_answer|>
+
+<|start_query|> Query: Could you explain how to apply for scholarships? <|end_query|>
+<|start_answer|> Answer: Submit the scholarship form online along with required documents during the admission process. <|end_answer|>
+
+<|start_query|> Query: Are scholarships renewed every year? <|end_query|>
+<|start_answer|> Answer: Scholarships are renewed annually based on academic performance and other criteria. <|end_answer|>
+
+<|start_query|> Query: Is there financial aid for international students? <|end_query|>
+<|start_answer|> Answer: Certainly, limited scholarships are available for international students based on merit and need. <|end_answer|>
+
+<|start_query|> Query: Can you tell me what is campus life like? <|end_query|>
+<|start_answer|> Answer: Campus life is vibrant, with various clubs, cultural events, and academic activities throughout the year. <|end_answer|>
+
+<|start_query|> Query: Are there common areas for students to relax? <|end_query|>
+<|start_answer|> Answer: Certainly, there are student lounges, gardens, and recreational areas for students to relax and socialize. <|end_answer|>
+
+<|start_query|> Query: What safety measures are in place on campus? <|end_query|>
+<|start_answer|> Answer: The campus has 24/7 security, CCTV surveillance, and emergency response systems. <|end_answer|>
+
+<|start_query|> Query: Are there any mentorship programs? <|end_query|>
+<|start_answer|> Answer: Yes, mentorship programs connect students with faculty and senior peers for guidance. <|end_answer|>
+
+<|start_query|> Query: How is the hostel environment? <|end_query|>
+<|start_answer|> Answer: The hostel offers a supportive environment with study groups, recreational activities, and cultural nights. <|end_answer|>
+
+<|start_query|> Query: What are the dining options in the hostel? <|end_query|>
+<|start_answer|> Answer: The hostel mess provides nutritious meals with vegetarian and non-vegetarian options. <|end_answer|>
+
+<|start_query|> Query: Is there Wi-Fi available in hostels? <|end_query|>
+<|start_answer|> Answer: Yes, all hostels have high-speed Wi-Fi for academic and personal use. <|end_answer|>
+
+<|start_query|> Query: What recreational activities are available in hostels? <|end_query|>
+<|start_answer|> Answer: Hostels have indoor games, TV rooms, and fitness areas for relaxation and leisure. <|end_answer|>
+
+<|start_query|> Query: Where can I find information on do I join campus clubs? <|end_query|>
+<|start_answer|> Answer: Join clubs during the annual club fair or by signing up with the respective club coordinators. <|end_answer|>
+
+<|start_query|> Query: What are the popular clubs on campus? <|end_query|>
+<|start_answer|> Answer: Popular clubs include coding clubs, dance societies, debate teams, and photography groups. <|end_answer|>
+
+<|start_query|> Query: Are there inter-college competitions? <|end_query|>
+<|start_answer|> Answer: Absolutely, students regularly participate in inter-college technical, cultural, and sports competitions. <|end_answer|>
+
+<|start_query|> Query: Can students form new clubs? <|end_query|>
+<|start_answer|> Answer: Students can propose new clubs by submitting a plan to the student council for approval. <|end_answer|>
+
+<|start_query|> Query: Can you tell me what are popular after-college activities? <|end_query|>
+<|start_answer|> Answer: Students engage in workshops, part-time jobs, and explore local attractions after classes. <|end_answer|>
+
+<|start_query|> Query: Are there evening sports sessions? <|end_query|>
+<|start_answer|> Answer: Yes, evening sports sessions are held on the sports ground, including football and cricket matches. <|end_answer|>
+
+<|start_query|> Query: Is there support for performing arts? <|end_query|>
+<|start_answer|> Answer: Yes, cultural committees support music, dance, and theater activities with regular performances. <|end_answer|>
+
+<|start_query|> Query: Can students volunteer for social causes? <|end_query|>
+<|start_answer|> Answer: Volunteer opportunities are available with campus clubs and local NGOs for community service. <|end_answer|>
+
+<|start_query|> Query: What food options are available on campus? <|end_query|>
+<|start_answer|> Answer: The campus has multiple food courts offering diverse cuisines at affordable prices. <|end_answer|>
+
+<|start_query|> Query: Are there vegetarian food options? <|end_query|>
+<|start_answer|> Answer: Yes, vegetarian options are available in all campus eateries and the hostel mess. <|end_answer|>
+
+<|start_query|> Query: Does the campus have cafes? <|end_query|>
+<|start_answer|> Answer: Yes, there are cafes serving snacks, beverages, and light meals perfect for study breaks. <|end_answer|>
+
+<|start_query|> Query: Are late-night snacks available? <|end_query|>
+<|start_answer|> Answer: Yes, some cafes and vending machines are accessible late at night for snacks. <|end_answer|>
+
+<|start_query|> Query: What are the library timings? <|end_query|>
+<|start_answer|> Answer: The library is open from 8 AM to 10 PM on weekdays and 9 AM to 5 PM on weekends. <|end_answer|>
+
+<|start_query|> Query: Can I borrow books from the library? <|end_query|>
+<|start_answer|> Answer: Yes, students can borrow books using their ID card for a specified duration. <|end_answer|>
+
+<|start_query|> Query: Are digital resources available? <|end_query|>
+<|start_answer|> Answer: Certainly, the library offers access to e-books, journals, and research databases. <|end_answer|>
+
+<|start_query|> Query: Is there a quiet study area? <|end_query|>
+<|start_answer|> Answer: Yes, designated quiet zones are available in the library for focused study. <|end_answer|>
+
+<|start_query|> Query: Is there a gym on campus? <|end_query|>
+<|start_answer|> Answer: Absolutely, the campus gym is equipped with modern fitness equipment and personal trainers. <|end_answer|>
+
+<|start_query|> Query: What are the gym timings? <|end_query|>
+<|start_answer|> Answer: The gym is open from 6 AM to 9 PM, with separate sessions for men and women. <|end_answer|>
+
+<|start_query|> Query: Are there group fitness classes? <|end_query|>
+<|start_answer|> Answer: Yes, group fitness classes like yoga, Zumba, and aerobics are conducted regularly. <|end_answer|>
+
+<|start_query|> Query: Do students need to pay for the gym? <|end_query|>
+<|start_answer|> Answer: Gym membership is included in hostel fees, and day scholars can subscribe separately. <|end_answer|>
+
+<|start_query|> Query: What are the placement statistics? <|end_query|>
+<|start_answer|> Answer: The placement cell publishes annual reports showcasing placement percentages and top recruiters. <|end_answer|>
+
+<|start_query|> Query: Which companies visit for placements? <|end_query|>
+<|start_answer|> Answer: Top companies from IT, finance, and consulting sectors visit for campus placements. <|end_answer|>
+
+<|start_query|> Query: Is there pre-placement training? <|end_query|>
+<|start_answer|> Answer: Yes, pre-placement training includes mock interviews, resume building, and aptitude tests. <|end_answer|>
+
+<|start_query|> Query: How do I register for placements? <|end_query|>
+<|start_answer|> Answer: Register through the placement portal by submitting required documents and preferences. <|end_answer|>
+
+<|start_query|> Query: Could you describe what awards are given to students? <|end_query|>
+<|start_answer|> Answer: Awards include academic excellence, leadership, innovation, and community service recognitions. <|end_answer|>
+
+<|start_query|> Query: Are there scholarships for top performers? <|end_query|>
+<|start_answer|> Answer: Absolutely, top-performing students receive merit scholarships and academic awards each semester. <|end_answer|>
+
+<|start_query|> Query: How are award winners selected? <|end_query|>
+<|start_answer|> Answer: Award recipients are chosen based on academic records, extracurricular achievements, and leadership roles. <|end_answer|>
+
+<|start_query|> Query: Is there a convocation ceremony? <|end_query|>
+<|start_answer|> Answer: Yes, the convocation ceremony includes degree conferral and award presentations for graduates. <|end_answer|>
+
+<|start_query|> Query: What is the faculty-student ratio? <|end_query|>
+<|start_answer|> Answer: The faculty-student ratio ensures personalized attention and effective mentorship. <|end_answer|>
+
+<|start_query|> Query: Are faculty members industry-experienced? <|end_query|>
+<|start_answer|> Answer: Many faculty members have extensive industry experience and academic expertise. <|end_answer|>
+
+<|start_query|> Query: How accessible are faculty members? <|end_query|>
+<|start_answer|> Answer: Faculty members are available during office hours and by appointment for student consultations. <|end_answer|>
+
+<|start_query|> Query: Do faculties engage in research? <|end_query|>
+<|start_answer|> Answer: Yes, faculty members actively participate in research projects and publish in reputed journals. <|end_answer|>
+
+<|start_query|> Query: What sports facilities are available? <|end_query|>
+<|start_answer|> Answer: Facilities include cricket grounds, football fields, tennis courts, and indoor sports complexes. <|end_answer|>
+
+<|start_query|> Query: Are there sports scholarships? <|end_query|>
+<|start_answer|> Answer: Yes, sports scholarships are awarded based on performance in national and state-level events. <|end_answer|>
+
+<|start_query|> Query: Is there a sports fest? <|end_query|>
+<|start_answer|> Answer: An annual sports fest invites participation from various colleges in multiple disciplines. <|end_answer|>
+
+<|start_query|> Query: Can beginners join sports teams? <|end_query|>
+<|start_answer|> Answer: Yes, beginners can join training sessions and represent the college after selection trials. <|end_answer|>
+
+<|start_query|> Query: What major events are held on campus? <|end_query|>
+<|start_answer|> Answer: Annual tech fests, cultural nights, and sports tournaments are key highlights of campus life. <|end_answer|>
+
+<|start_query|> Query: How can I participate in events? <|end_query|>
+<|start_answer|> Answer: Event registrations are announced on the student portal and campus notice boards. <|end_answer|>
+
+<|start_query|> Query: Are there guest lectures? <|end_query|>
+<|start_answer|> Answer: Renowned industry experts and alumni are invited for guest lectures throughout the academic year. <|end_answer|>
+
+<|start_query|> Query: What cultural festivals are organized? <|end_query|>
+<|start_answer|> Answer: Cultural festivals include dance competitions, music shows, and drama performances celebrating diversity. <|end_answer|>
+
+<|start_query|> Query: Does the college offer online courses? <|end_query|>
+<|start_answer|> Answer: Yes, online certifications in data science, AI, and management are available through partner platforms. <|end_answer|>
+
+<|start_query|> Query: Are online courses part of the curriculum? <|end_query|>
+<|start_answer|> Answer: Some online courses are integrated into the curriculum for skill enhancement. <|end_answer|>
+
+<|start_query|> Query: Can students get credits for online courses? <|end_query|>
+<|start_answer|> Answer: Yes, select online courses are credit-eligible after meeting performance criteria. <|end_answer|>
+
+<|start_query|> Query: What platforms offer online learning? <|end_query|>
+<|start_answer|> Answer: Partnerships with Coursera, edX, and Udacity enable access to various professional courses. <|end_answer|>
+
+<|start_query|> Query: Does the college provide internship opportunities? <|end_query|>
+<|start_answer|> Answer: The placement cell collaborates with companies to offer internships in various domains. <|end_answer|>
+
+<|start_query|> Query: Are internships mandatory for graduation? <|end_query|>
+<|start_answer|> Answer: Internships are mandatory for certain programs as part of the curriculum. <|end_answer|>
+
+<|start_query|> Query: Can students pursue international internships? <|end_query|>
+<|start_answer|> Answer: Yes, international internship opportunities are available through global partnerships. <|end_answer|>
+
+<|start_query|> Query: How do I apply for internships? <|end_query|>
+<|start_answer|> Answer: Students can apply via the placement portal or approach faculty advisors for guidance. <|end_answer|>
+
+<|start_query|> Query: What on-campus facilities are available? <|end_query|>
+<|start_answer|> Answer: Facilities include health centers, bookstores, stationery shops, and banking services. <|end_answer|>
+
+<|start_query|> Query: Are there part-time jobs on campus? <|end_query|>
+<|start_answer|> Answer: Indeed, part-time roles like library assistants and research aides are available for students. <|end_answer|>
+
+<|start_query|> Query: Is on-campus accommodation available for all students? <|end_query|>
+<|start_answer|> Answer: Hostel accommodation is provided on a first-come, first-served basis with priority for freshmen. <|end_answer|>
+
+<|start_query|> Query: Are there meal plans for day scholars? <|end_query|>
+<|start_answer|> Answer: Day scholars can opt for meal plans providing access to campus dining facilities. <|end_answer|>
+
+<|start_query|> Query: What tech courses are available? <|end_query|>
+<|start_answer|> Answer: Courses in computer science, AI, cybersecurity, and data analytics are offered for tech enthusiasts. <|end_answer|>
+
+<|start_query|> Query: Are there non-tech courses available? <|end_query|>
+<|start_answer|> Answer: Non-tech options include psychology, business management, media studies, and literature programs. <|end_answer|>
+
+<|start_query|> Query: Can students switch courses after admission? <|end_query|>
+<|start_answer|> Answer: Course changes are allowed during the add-drop period, subject to academic regulations. <|end_answer|>
+
+<|start_query|> Query: Are interdisciplinary courses available? <|end_query|>
+<|start_answer|> Answer: Yes, students can enroll in interdisciplinary electives blending technology, business, and humanities. <|end_answer|>
+
+<|start_query|> Query: What are the hostel facilities available? <|end_query|>
+<|start_answer|> Answer: The hostel provides furnished rooms, Wi-Fi, laundry services, and common rooms for recreation. <|end_answer|>
+
+<|start_query|> Query: How can I apply for hostel accommodation? <|end_query|>
+<|start_answer|> Answer: You can apply for hostel accommodation through the student portal during the admission process. <|end_answer|>
+
+<|start_query|> Query: Are there separate hostels for boys and girls? <|end_query|>
+<|start_answer|> Answer: Yes, the campus has separate hostels for boys and girls, each with dedicated wardens. <|end_answer|>
+
+<|start_query|> Query: What are the hostel rules and timings? <|end_query|>
+<|start_answer|> Answer: Hostel rules include curfew timings, visitor policies, and guidelines to ensure a safe living environment. <|end_answer|>
+
+<|start_query|> Query: What is the admission process? <|end_query|>
+<|start_answer|> Answer: Admissions are based on entrance exams, merit, and interviews, depending on the program. <|end_answer|>
+
+<|start_query|> Query: Are there any entrance exams required? <|end_query|>
+<|start_answer|> Answer: Absolutely, some programs require entrance exams. Check the admissions brochure for details. <|end_answer|>
+
+<|start_query|> Query: What documents are needed for admission? <|end_query|>
+<|start_answer|> Answer: You need academic transcripts, ID proof, entrance exam scores, and passport-sized photos. <|end_answer|>
+
+<|start_query|> Query: Is there any admission helpline available? <|end_query|>
+<|start_answer|> Answer: Yes, the admissions office provides support via email and phone during business hours. <|end_answer|>
+
+<|start_query|> Query: I would like to know what scholarships are offered? <|end_query|>
+<|start_answer|> Answer: Merit-based, need-based, and sports scholarships are available. Details are on the scholarships page. <|end_answer|>
+
+<|start_query|> Query: How to apply for scholarships? <|end_query|>
+<|start_answer|> Answer: Submit the scholarship form online along with required documents during the admission process. <|end_answer|>
+
+<|start_query|> Query: Are scholarships renewed every year? <|end_query|>
+<|start_answer|> Answer: Scholarships are renewed annually based on academic performance and other criteria. <|end_answer|>
+
+<|start_query|> Query: Is there financial aid for international students? <|end_query|>
+<|start_answer|> Answer: Yes, limited scholarships are available for international students based on merit and need. <|end_answer|>
+
+<|start_query|> Query: What is campus life like? <|end_query|>
+<|start_answer|> Answer: Campus life is vibrant, with various clubs, cultural events, and academic activities throughout the year. <|end_answer|>
+
+<|start_query|> Query: Are there common areas for students to relax? <|end_query|>
+<|start_answer|> Answer: Yes, there are student lounges, gardens, and recreational areas for students to relax and socialize. <|end_answer|>
+
+<|start_query|> Query: What safety measures are in place on campus? <|end_query|>
+<|start_answer|> Answer: The campus has 24/7 security, CCTV surveillance, and emergency response systems. <|end_answer|>
+
+<|start_query|> Query: Are there any mentorship programs? <|end_query|>
+<|start_answer|> Answer: Yes, mentorship programs connect students with faculty and senior peers for guidance. <|end_answer|>
+
+<|start_query|> Query: Where can I find information on is the hostel environment? <|end_query|>
+<|start_answer|> Answer: The hostel offers a supportive environment with study groups, recreational activities, and cultural nights. <|end_answer|>
+
+<|start_query|> Query: What are the dining options in the hostel? <|end_query|>
+<|start_answer|> Answer: The hostel mess provides nutritious meals with vegetarian and non-vegetarian options. <|end_answer|>
+
+<|start_query|> Query: Is there Wi-Fi available in hostels? <|end_query|>
+<|start_answer|> Answer: Indeed, all hostels have high-speed Wi-Fi for academic and personal use. <|end_answer|>
+
+<|start_query|> Query: What recreational activities are available in hostels? <|end_query|>
+<|start_answer|> Answer: Hostels have indoor games, TV rooms, and fitness areas for relaxation and leisure. <|end_answer|>
+
+<|start_query|> Query: How do I join campus clubs? <|end_query|>
+<|start_answer|> Answer: Join clubs during the annual club fair or by signing up with the respective club coordinators. <|end_answer|>
+
+<|start_query|> Query: What are the popular clubs on campus? <|end_query|>
+<|start_answer|> Answer: Popular clubs include coding clubs, dance societies, debate teams, and photography groups. <|end_answer|>
+
+<|start_query|> Query: Are there inter-college competitions? <|end_query|>
+<|start_answer|> Answer: Yes, students regularly participate in inter-college technical, cultural, and sports competitions. <|end_answer|>
+
+<|start_query|> Query: Can students form new clubs? <|end_query|>
+<|start_answer|> Answer: Students can propose new clubs by submitting a plan to the student council for approval. <|end_answer|>
+
+<|start_query|> Query: What are popular after-college activities? <|end_query|>
+<|start_answer|> Answer: Students engage in workshops, part-time jobs, and explore local attractions after classes. <|end_answer|>
+
+<|start_query|> Query: Are there evening sports sessions? <|end_query|>
+<|start_answer|> Answer: Yes, evening sports sessions are held on the sports ground, including football and cricket matches. <|end_answer|>
+
+<|start_query|> Query: Is there support for performing arts? <|end_query|>
+<|start_answer|> Answer: Absolutely, cultural committees support music, dance, and theater activities with regular performances. <|end_answer|>
+
+<|start_query|> Query: Can students volunteer for social causes? <|end_query|>
+<|start_answer|> Answer: Volunteer opportunities are available with campus clubs and local NGOs for community service. <|end_answer|>
+
+<|start_query|> Query: Can you tell me what food options are available on campus? <|end_query|>
+<|start_answer|> Answer: The campus has multiple food courts offering diverse cuisines at affordable prices. <|end_answer|>
+
+<|start_query|> Query: Are there vegetarian food options? <|end_query|>
+<|start_answer|> Answer: Yes, vegetarian options are available in all campus eateries and the hostel mess. <|end_answer|>
+
+<|start_query|> Query: Does the campus have cafes? <|end_query|>
+<|start_answer|> Answer: Yes, there are cafes serving snacks, beverages, and light meals perfect for study breaks. <|end_answer|>
+
+<|start_query|> Query: Are late-night snacks available? <|end_query|>
+<|start_answer|> Answer: Yes, some cafes and vending machines are accessible late at night for snacks. <|end_answer|>
+
+<|start_query|> Query: What are the library timings? <|end_query|>
+<|start_answer|> Answer: The library is open from 8 AM to 10 PM on weekdays and 9 AM to 5 PM on weekends. <|end_answer|>
+
+<|start_query|> Query: Can I borrow books from the library? <|end_query|>
+<|start_answer|> Answer: Yes, students can borrow books using their ID card for a specified duration. <|end_answer|>
+
+<|start_query|> Query: Are digital resources available? <|end_query|>
+<|start_answer|> Answer: Yes, the library offers access to e-books, journals, and research databases. <|end_answer|>
+
+<|start_query|> Query: Is there a quiet study area? <|end_query|>
+<|start_answer|> Answer: Certainly, designated quiet zones are available in the library for focused study. <|end_answer|>
+
+<|start_query|> Query: Is there a gym on campus? <|end_query|>
+<|start_answer|> Answer: Certainly, the campus gym is equipped with modern fitness equipment and personal trainers. <|end_answer|>
+
+<|start_query|> Query: What are the gym timings? <|end_query|>
+<|start_answer|> Answer: The gym is open from 6 AM to 9 PM, with separate sessions for men and women. <|end_answer|>
+
+<|start_query|> Query: Are there group fitness classes? <|end_query|>
+<|start_answer|> Answer: Yes, group fitness classes like yoga, Zumba, and aerobics are conducted regularly. <|end_answer|>
+
+<|start_query|> Query: Do students need to pay for the gym? <|end_query|>
+<|start_answer|> Answer: Gym membership is included in hostel fees, and day scholars can subscribe separately. <|end_answer|>
+
+<|start_query|> Query: Can you tell me what are the placement statistics? <|end_query|>
+<|start_answer|> Answer: The placement cell publishes annual reports showcasing placement percentages and top recruiters. <|end_answer|>
+
+<|start_query|> Query: Which companies visit for placements? <|end_query|>
+<|start_answer|> Answer: Top companies from IT, finance, and consulting sectors visit for campus placements. <|end_answer|>
+
+<|start_query|> Query: Is there pre-placement training? <|end_query|>
+<|start_answer|> Answer: Yes, pre-placement training includes mock interviews, resume building, and aptitude tests. <|end_answer|>
+
+<|start_query|> Query: Where can I find information on do I register for placements? <|end_query|>
+<|start_answer|> Answer: Register through the placement portal by submitting required documents and preferences. <|end_answer|>
+
+<|start_query|> Query: What awards are given to students? <|end_query|>
+<|start_answer|> Answer: Awards include academic excellence, leadership, innovation, and community service recognitions. <|end_answer|>
+
+<|start_query|> Query: Are there scholarships for top performers? <|end_query|>
+<|start_answer|> Answer: Yes, top-performing students receive merit scholarships and academic awards each semester. <|end_answer|>
+
+<|start_query|> Query: How are award winners selected? <|end_query|>
+<|start_answer|> Answer: Award recipients are chosen based on academic records, extracurricular achievements, and leadership roles. <|end_answer|>
+
+<|start_query|> Query: Is there a convocation ceremony? <|end_query|>
+<|start_answer|> Answer: Yes, the convocation ceremony includes degree conferral and award presentations for graduates. <|end_answer|>
+
+<|start_query|> Query: What is the faculty-student ratio? <|end_query|>
+<|start_answer|> Answer: The faculty-student ratio ensures personalized attention and effective mentorship. <|end_answer|>
+
+<|start_query|> Query: Are faculty members industry-experienced? <|end_query|>
+<|start_answer|> Answer: Many faculty members have extensive industry experience and academic expertise. <|end_answer|>
+
+<|start_query|> Query: How accessible are faculty members? <|end_query|>
+<|start_answer|> Answer: Faculty members are available during office hours and by appointment for student consultations. <|end_answer|>
+
+<|start_query|> Query: Do faculties engage in research? <|end_query|>
+<|start_answer|> Answer: Yes, faculty members actively participate in research projects and publish in reputed journals. <|end_answer|>
+
+<|start_query|> Query: What sports facilities are available? <|end_query|>
+<|start_answer|> Answer: Facilities include cricket grounds, football fields, tennis courts, and indoor sports complexes. <|end_answer|>
+
+<|start_query|> Query: Are there sports scholarships? <|end_query|>
+<|start_answer|> Answer: Yes, sports scholarships are awarded based on performance in national and state-level events. <|end_answer|>
+
+<|start_query|> Query: Is there a sports fest? <|end_query|>
+<|start_answer|> Answer: An annual sports fest invites participation from various colleges in multiple disciplines. <|end_answer|>
+
+<|start_query|> Query: Can beginners join sports teams? <|end_query|>
+<|start_answer|> Answer: Yes, beginners can join training sessions and represent the college after selection trials. <|end_answer|>
+
+<|start_query|> Query: What major events are held on campus? <|end_query|>
+<|start_answer|> Answer: Annual tech fests, cultural nights, and sports tournaments are key highlights of campus life. <|end_answer|>
+
+<|start_query|> Query: How can I participate in events? <|end_query|>
+<|start_answer|> Answer: Event registrations are announced on the student portal and campus notice boards. <|end_answer|>
+
+<|start_query|> Query: Are there guest lectures? <|end_query|>
+<|start_answer|> Answer: Renowned industry experts and alumni are invited for guest lectures throughout the academic year. <|end_answer|>
+
+<|start_query|> Query: Can you tell me what cultural festivals are organized? <|end_query|>
+<|start_answer|> Answer: Cultural festivals include dance competitions, music shows, and drama performances celebrating diversity. <|end_answer|>
+
+<|start_query|> Query: Does the college offer online courses? <|end_query|>
+<|start_answer|> Answer: Absolutely, online certifications in data science, AI, and management are available through partner platforms. <|end_answer|>
+
+<|start_query|> Query: Are online courses part of the curriculum? <|end_query|>
+<|start_answer|> Answer: Some online courses are integrated into the curriculum for skill enhancement. <|end_answer|>
+
+<|start_query|> Query: Can students get credits for online courses? <|end_query|>
+<|start_answer|> Answer: Yes, select online courses are credit-eligible after meeting performance criteria. <|end_answer|>
+
+<|start_query|> Query: Can you tell me what platforms offer online learning? <|end_query|>
+<|start_answer|> Answer: Partnerships with Coursera, edX, and Udacity enable access to various professional courses. <|end_answer|>
+
+<|start_query|> Query: Does the college provide internship opportunities? <|end_query|>
+<|start_answer|> Answer: The placement cell collaborates with companies to offer internships in various domains. <|end_answer|>
+
+<|start_query|> Query: Are internships mandatory for graduation? <|end_query|>
+<|start_answer|> Answer: Internships are mandatory for certain programs as part of the curriculum. <|end_answer|>
+
+<|start_query|> Query: Can students pursue international internships? <|end_query|>
+<|start_answer|> Answer: Certainly, international internship opportunities are available through global partnerships. <|end_answer|>
+
+<|start_query|> Query: How do I apply for internships? <|end_query|>
+<|start_answer|> Answer: Students can apply via the placement portal or approach faculty advisors for guidance. <|end_answer|>
+
+<|start_query|> Query: Could you describe what on-campus facilities are available? <|end_query|>
+<|start_answer|> Answer: Facilities include health centers, bookstores, stationery shops, and banking services. <|end_answer|>
+
+<|start_query|> Query: Are there part-time jobs on campus? <|end_query|>
+<|start_answer|> Answer: Yes, part-time roles like library assistants and research aides are available for students. <|end_answer|>
+
+<|start_query|> Query: Is on-campus accommodation available for all students? <|end_query|>
+<|start_answer|> Answer: Hostel accommodation is provided on a first-come, first-served basis with priority for freshmen. <|end_answer|>
+
+<|start_query|> Query: Are there meal plans for day scholars? <|end_query|>
+<|start_answer|> Answer: Day scholars can opt for meal plans providing access to campus dining facilities. <|end_answer|>
+
+<|start_query|> Query: What tech courses are available? <|end_query|>
+<|start_answer|> Answer: Courses in computer science, AI, cybersecurity, and data analytics are offered for tech enthusiasts. <|end_answer|>
+
+<|start_query|> Query: Are there non-tech courses available? <|end_query|>
+<|start_answer|> Answer: Non-tech options include psychology, business management, media studies, and literature programs. <|end_answer|>
+
+<|start_query|> Query: Can students switch courses after admission? <|end_query|>
+<|start_answer|> Answer: Course changes are allowed during the add-drop period, subject to academic regulations. <|end_answer|>
+
+<|start_query|> Query: Are interdisciplinary courses available? <|end_query|>
+<|start_answer|> Answer: Yes, students can enroll in interdisciplinary electives blending technology, business, and humanities. <|end_answer|>
+
+<|start_query|> Query: Can you tell me what are the hostel facilities available? <|end_query|>
+<|start_answer|> Answer: The hostel provides furnished rooms, Wi-Fi, laundry services, and common rooms for recreation. <|end_answer|>
+
+<|start_query|> Query: How can I apply for hostel accommodation? <|end_query|>
+<|start_answer|> Answer: You can apply for hostel accommodation through the student portal during the admission process. <|end_answer|>
+
+<|start_query|> Query: Are there separate hostels for boys and girls? <|end_query|>
+<|start_answer|> Answer: Yes, the campus has separate hostels for boys and girls, each with dedicated wardens. <|end_answer|>
+
+<|start_query|> Query: Can you tell me what are the hostel rules and timings? <|end_query|>
+<|start_answer|> Answer: Hostel rules include curfew timings, visitor policies, and guidelines to ensure a safe living environment. <|end_answer|>
+
+<|start_query|> Query: What is the admission process? <|end_query|>
+<|start_answer|> Answer: Admissions are based on entrance exams, merit, and interviews, depending on the program. <|end_answer|>
+
+<|start_query|> Query: Are there any entrance exams required? <|end_query|>
+<|start_answer|> Answer: Certainly, some programs require entrance exams. Check the admissions brochure for details. <|end_answer|>
+
+<|start_query|> Query: What documents are needed for admission? <|end_query|>
+<|start_answer|> Answer: You need academic transcripts, ID proof, entrance exam scores, and passport-sized photos. <|end_answer|>
+
+<|start_query|> Query: Is there any admission helpline available? <|end_query|>
+<|start_answer|> Answer: Yes, the admissions office provides support via email and phone during business hours. <|end_answer|>
+
+<|start_query|> Query: What scholarships are offered? <|end_query|>
+<|start_answer|> Answer: Merit-based, need-based, and sports scholarships are available. Details are on the scholarships page. <|end_answer|>
+
+<|start_query|> Query: How to apply for scholarships? <|end_query|>
+<|start_answer|> Answer: Submit the scholarship form online along with required documents during the admission process. <|end_answer|>
+
+<|start_query|> Query: Are scholarships renewed every year? <|end_query|>
+<|start_answer|> Answer: Scholarships are renewed annually based on academic performance and other criteria. <|end_answer|>
+
+<|start_query|> Query: Is there financial aid for international students? <|end_query|>
+<|start_answer|> Answer: Yes, limited scholarships are available for international students based on merit and need. <|end_answer|>
+
+<|start_query|> Query: What is campus life like? <|end_query|>
+<|start_answer|> Answer: Campus life is vibrant, with various clubs, cultural events, and academic activities throughout the year. <|end_answer|>
+
+<|start_query|> Query: Are there common areas for students to relax? <|end_query|>
+<|start_answer|> Answer: Yes, there are student lounges, gardens, and recreational areas for students to relax and socialize. <|end_answer|>
+
+<|start_query|> Query: I would like to know what safety measures are in place on campus? <|end_query|>
+<|start_answer|> Answer: The campus has 24/7 security, CCTV surveillance, and emergency response systems. <|end_answer|>
+
+<|start_query|> Query: Are there any mentorship programs? <|end_query|>
+<|start_answer|> Answer: Indeed, mentorship programs connect students with faculty and senior peers for guidance. <|end_answer|>
+
+<|start_query|> Query: How is the hostel environment? <|end_query|>
+<|start_answer|> Answer: The hostel offers a supportive environment with study groups, recreational activities, and cultural nights. <|end_answer|>
+
+<|start_query|> Query: I would like to know what are the dining options in the hostel? <|end_query|>
+<|start_answer|> Answer: The hostel mess provides nutritious meals with vegetarian and non-vegetarian options. <|end_answer|>
+
+<|start_query|> Query: Is there Wi-Fi available in hostels? <|end_query|>
+<|start_answer|> Answer: Yes, all hostels have high-speed Wi-Fi for academic and personal use. <|end_answer|>
+
+<|start_query|> Query: I would like to know what recreational activities are available in hostels? <|end_query|>
+<|start_answer|> Answer: Hostels have indoor games, TV rooms, and fitness areas for relaxation and leisure. <|end_answer|>
+
+<|start_query|> Query: How do I join campus clubs? <|end_query|>
+<|start_answer|> Answer: Join clubs during the annual club fair or by signing up with the respective club coordinators. <|end_answer|>
+
+<|start_query|> Query: What are the popular clubs on campus? <|end_query|>
+<|start_answer|> Answer: Popular clubs include coding clubs, dance societies, debate teams, and photography groups. <|end_answer|>
+
+<|start_query|> Query: Are there inter-college competitions? <|end_query|>
+<|start_answer|> Answer: Yes, students regularly participate in inter-college technical, cultural, and sports competitions. <|end_answer|>
+
+<|start_query|> Query: Can students form new clubs? <|end_query|>
+<|start_answer|> Answer: Students can propose new clubs by submitting a plan to the student council for approval. <|end_answer|>
+
+<|start_query|> Query: What are popular after-college activities? <|end_query|>
+<|start_answer|> Answer: Students engage in workshops, part-time jobs, and explore local attractions after classes. <|end_answer|>
+
+<|start_query|> Query: Are there evening sports sessions? <|end_query|>
+<|start_answer|> Answer: Yes, evening sports sessions are held on the sports ground, including football and cricket matches. <|end_answer|>
+
+<|start_query|> Query: Is there support for performing arts? <|end_query|>
+<|start_answer|> Answer: Yes, cultural committees support music, dance, and theater activities with regular performances. <|end_answer|>
+
+<|start_query|> Query: Can students volunteer for social causes? <|end_query|>
+<|start_answer|> Answer: Volunteer opportunities are available with campus clubs and local NGOs for community service. <|end_answer|>
+
+<|start_query|> Query: What food options are available on campus? <|end_query|>
+<|start_answer|> Answer: The campus has multiple food courts offering diverse cuisines at affordable prices. <|end_answer|>
+
+<|start_query|> Query: Are there vegetarian food options? <|end_query|>
+<|start_answer|> Answer: Yes, vegetarian options are available in all campus eateries and the hostel mess. <|end_answer|>
+
+<|start_query|> Query: Does the campus have cafes? <|end_query|>
+<|start_answer|> Answer: Yes, there are cafes serving snacks, beverages, and light meals perfect for study breaks. <|end_answer|>
+
+<|start_query|> Query: Are late-night snacks available? <|end_query|>
+<|start_answer|> Answer: Certainly, some cafes and vending machines are accessible late at night for snacks. <|end_answer|>
+
+<|start_query|> Query: What are the library timings? <|end_query|>
+<|start_answer|> Answer: The library is open from 8 AM to 10 PM on weekdays and 9 AM to 5 PM on weekends. <|end_answer|>
+
+<|start_query|> Query: Can I borrow books from the library? <|end_query|>
+<|start_answer|> Answer: Yes, students can borrow books using their ID card for a specified duration. <|end_answer|>
+
+<|start_query|> Query: Are digital resources available? <|end_query|>
+<|start_answer|> Answer: Yes, the library offers access to e-books, journals, and research databases. <|end_answer|>
+
+<|start_query|> Query: Is there a quiet study area? <|end_query|>
+<|start_answer|> Answer: Yes, designated quiet zones are available in the library for focused study. <|end_answer|>
+
+<|start_query|> Query: Is there a gym on campus? <|end_query|>
+<|start_answer|> Answer: Yes, the campus gym is equipped with modern fitness equipment and personal trainers. <|end_answer|>
+
+<|start_query|> Query: Can you tell me what are the gym timings? <|end_query|>
+<|start_answer|> Answer: The gym is open from 6 AM to 9 PM, with separate sessions for men and women. <|end_answer|>
+
+<|start_query|> Query: Are there group fitness classes? <|end_query|>
+<|start_answer|> Answer: Yes, group fitness classes like yoga, Zumba, and aerobics are conducted regularly. <|end_answer|>
+
+<|start_query|> Query: Do students need to pay for the gym? <|end_query|>
+<|start_answer|> Answer: Gym membership is included in hostel fees, and day scholars can subscribe separately. <|end_answer|>
+
+<|start_query|> Query: Could you describe what are the placement statistics? <|end_query|>
+<|start_answer|> Answer: The placement cell publishes annual reports showcasing placement percentages and top recruiters. <|end_answer|>
+
+<|start_query|> Query: Which companies visit for placements? <|end_query|>
+<|start_answer|> Answer: Top companies from IT, finance, and consulting sectors visit for campus placements. <|end_answer|>
+
+<|start_query|> Query: Is there pre-placement training? <|end_query|>
+<|start_answer|> Answer: Certainly, pre-placement training includes mock interviews, resume building, and aptitude tests. <|end_answer|>
+
+<|start_query|> Query: How do I register for placements? <|end_query|>
+<|start_answer|> Answer: Register through the placement portal by submitting required documents and preferences. <|end_answer|>
+
+<|start_query|> Query: What awards are given to students? <|end_query|>
+<|start_answer|> Answer: Awards include academic excellence, leadership, innovation, and community service recognitions. <|end_answer|>
+
+<|start_query|> Query: Are there scholarships for top performers? <|end_query|>
+<|start_answer|> Answer: Yes, top-performing students receive merit scholarships and academic awards each semester. <|end_answer|>
+
+<|start_query|> Query: Could you explain how are award winners selected? <|end_query|>
+<|start_answer|> Answer: Award recipients are chosen based on academic records, extracurricular achievements, and leadership roles. <|end_answer|>
+
+<|start_query|> Query: Is there a convocation ceremony? <|end_query|>
+<|start_answer|> Answer: Certainly, the convocation ceremony includes degree conferral and award presentations for graduates. <|end_answer|>
+
+<|start_query|> Query: What is the faculty-student ratio? <|end_query|>
+<|start_answer|> Answer: The faculty-student ratio ensures personalized attention and effective mentorship. <|end_answer|>
+
+<|start_query|> Query: Are faculty members industry-experienced? <|end_query|>
+<|start_answer|> Answer: Many faculty members have extensive industry experience and academic expertise. <|end_answer|>
+
+<|start_query|> Query: How accessible are faculty members? <|end_query|>
+<|start_answer|> Answer: Faculty members are available during office hours and by appointment for student consultations. <|end_answer|>
+
+<|start_query|> Query: Do faculties engage in research? <|end_query|>
+<|start_answer|> Answer: Indeed, faculty members actively participate in research projects and publish in reputed journals. <|end_answer|>
+
+<|start_query|> Query: What sports facilities are available? <|end_query|>
+<|start_answer|> Answer: Facilities include cricket grounds, football fields, tennis courts, and indoor sports complexes. <|end_answer|>
+
+<|start_query|> Query: Are there sports scholarships? <|end_query|>
+<|start_answer|> Answer: Yes, sports scholarships are awarded based on performance in national and state-level events. <|end_answer|>
+
+<|start_query|> Query: Is there a sports fest? <|end_query|>
+<|start_answer|> Answer: An annual sports fest invites participation from various colleges in multiple disciplines. <|end_answer|>
+
+<|start_query|> Query: Can beginners join sports teams? <|end_query|>
+<|start_answer|> Answer: Yes, beginners can join training sessions and represent the college after selection trials. <|end_answer|>
+
+<|start_query|> Query: What major events are held on campus? <|end_query|>
+<|start_answer|> Answer: Annual tech fests, cultural nights, and sports tournaments are key highlights of campus life. <|end_answer|>
+
+<|start_query|> Query: How can I participate in events? <|end_query|>
+<|start_answer|> Answer: Event registrations are announced on the student portal and campus notice boards. <|end_answer|>
+
+<|start_query|> Query: Are there guest lectures? <|end_query|>
+<|start_answer|> Answer: Renowned industry experts and alumni are invited for guest lectures throughout the academic year. <|end_answer|>
+
+<|start_query|> Query: What cultural festivals are organized? <|end_query|>
+<|start_answer|> Answer: Cultural festivals include dance competitions, music shows, and drama performances celebrating diversity. <|end_answer|>
+
+<|start_query|> Query: Does the college offer online courses? <|end_query|>
+<|start_answer|> Answer: Absolutely, online certifications in data science, AI, and management are available through partner platforms. <|end_answer|>
+
+<|start_query|> Query: Are online courses part of the curriculum? <|end_query|>
+<|start_answer|> Answer: Some online courses are integrated into the curriculum for skill enhancement. <|end_answer|>
+
+<|start_query|> Query: Can students get credits for online courses? <|end_query|>
+<|start_answer|> Answer: Yes, select online courses are credit-eligible after meeting performance criteria. <|end_answer|>
+
+<|start_query|> Query: What platforms offer online learning? <|end_query|>
+<|start_answer|> Answer: Partnerships with Coursera, edX, and Udacity enable access to various professional courses. <|end_answer|>
+
+<|start_query|> Query: Does the college provide internship opportunities? <|end_query|>
+<|start_answer|> Answer: The placement cell collaborates with companies to offer internships in various domains. <|end_answer|>
+
+<|start_query|> Query: Are internships mandatory for graduation? <|end_query|>
+<|start_answer|> Answer: Internships are mandatory for certain programs as part of the curriculum. <|end_answer|>
+
+<|start_query|> Query: Can students pursue international internships? <|end_query|>
+<|start_answer|> Answer: Yes, international internship opportunities are available through global partnerships. <|end_answer|>
+
+<|start_query|> Query: How do I apply for internships? <|end_query|>
+<|start_answer|> Answer: Students can apply via the placement portal or approach faculty advisors for guidance. <|end_answer|>
+
+<|start_query|> Query: What on-campus facilities are available? <|end_query|>
+<|start_answer|> Answer: Facilities include health centers, bookstores, stationery shops, and banking services. <|end_answer|>
+
+<|start_query|> Query: Are there part-time jobs on campus? <|end_query|>
+<|start_answer|> Answer: Yes, part-time roles like library assistants and research aides are available for students. <|end_answer|>
+
+<|start_query|> Query: Is on-campus accommodation available for all students? <|end_query|>
+<|start_answer|> Answer: Hostel accommodation is provided on a first-come, first-served basis with priority for freshmen. <|end_answer|>
+
+<|start_query|> Query: Are there meal plans for day scholars? <|end_query|>
+<|start_answer|> Answer: Day scholars can opt for meal plans providing access to campus dining facilities. <|end_answer|>
+
+<|start_query|> Query: What tech courses are available? <|end_query|>
+<|start_answer|> Answer: Courses in computer science, AI, cybersecurity, and data analytics are offered for tech enthusiasts. <|end_answer|>
+
+<|start_query|> Query: Are there non-tech courses available? <|end_query|>
+<|start_answer|> Answer: Non-tech options include psychology, business management, media studies, and literature programs. <|end_answer|>
+
+<|start_query|> Query: Can students switch courses after admission? <|end_query|>
+<|start_answer|> Answer: Course changes are allowed during the add-drop period, subject to academic regulations. <|end_answer|>
+
+<|start_query|> Query: Are interdisciplinary courses available? <|end_query|>
+<|start_answer|> Answer: Indeed, students can enroll in interdisciplinary electives blending technology, business, and humanities. <|end_answer|>
+
+<|start_query|> Query: What are the hostel facilities available? <|end_query|>
+<|start_answer|> Answer: The hostel provides furnished rooms, Wi-Fi, laundry services, and common rooms for recreation. <|end_answer|>
+
+<|start_query|> Query: Could you explain how can I apply for hostel accommodation? <|end_query|>
+<|start_answer|> Answer: You can apply for hostel accommodation through the student portal during the admission process. <|end_answer|>
+
+<|start_query|> Query: Are there separate hostels for boys and girls? <|end_query|>
+<|start_answer|> Answer: Indeed, the campus has separate hostels for boys and girls, each with dedicated wardens. <|end_answer|>
+
+<|start_query|> Query: Could you describe what are the hostel rules and timings? <|end_query|>
+<|start_answer|> Answer: Hostel rules include curfew timings, visitor policies, and guidelines to ensure a safe living environment. <|end_answer|>
+
+<|start_query|> Query: What is the admission process? <|end_query|>
+<|start_answer|> Answer: Admissions are based on entrance exams, merit, and interviews, depending on the program. <|end_answer|>
+
+<|start_query|> Query: Are there any entrance exams required? <|end_query|>
+<|start_answer|> Answer: Indeed, some programs require entrance exams. Check the admissions brochure for details. <|end_answer|>
+
+<|start_query|> Query: What documents are needed for admission? <|end_query|>
+<|start_answer|> Answer: You need academic transcripts, ID proof, entrance exam scores, and passport-sized photos. <|end_answer|>
+
+<|start_query|> Query: Is there any admission helpline available? <|end_query|>
+<|start_answer|> Answer: Yes, the admissions office provides support via email and phone during business hours. <|end_answer|>
+
+<|start_query|> Query: What scholarships are offered? <|end_query|>
+<|start_answer|> Answer: Merit-based, need-based, and sports scholarships are available. Details are on the scholarships page. <|end_answer|>
+
+<|start_query|> Query: Could you explain how to apply for scholarships? <|end_query|>
+<|start_answer|> Answer: Submit the scholarship form online along with required documents during the admission process. <|end_answer|>
+
+<|start_query|> Query: Are scholarships renewed every year? <|end_query|>
+<|start_answer|> Answer: Scholarships are renewed annually based on academic performance and other criteria. <|end_answer|>
+
+<|start_query|> Query: Is there financial aid for international students? <|end_query|>
+<|start_answer|> Answer: Yes, limited scholarships are available for international students based on merit and need. <|end_answer|>
+
+<|start_query|> Query: Could you describe what is campus life like? <|end_query|>
+<|start_answer|> Answer: Campus life is vibrant, with various clubs, cultural events, and academic activities throughout the year. <|end_answer|>
+
+<|start_query|> Query: Are there common areas for students to relax? <|end_query|>
+<|start_answer|> Answer: Absolutely, there are student lounges, gardens, and recreational areas for students to relax and socialize. <|end_answer|>
+
+<|start_query|> Query: What safety measures are in place on campus? <|end_query|>
+<|start_answer|> Answer: The campus has 24/7 security, CCTV surveillance, and emergency response systems. <|end_answer|>
+
+<|start_query|> Query: Are there any mentorship programs? <|end_query|>
+<|start_answer|> Answer: Yes, mentorship programs connect students with faculty and senior peers for guidance. <|end_answer|>
+
+<|start_query|> Query: How is the hostel environment? <|end_query|>
+<|start_answer|> Answer: The hostel offers a supportive environment with study groups, recreational activities, and cultural nights. <|end_answer|>
+
+<|start_query|> Query: What are the dining options in the hostel? <|end_query|>
+<|start_answer|> Answer: The hostel mess provides nutritious meals with vegetarian and non-vegetarian options. <|end_answer|>
+
+<|start_query|> Query: Is there Wi-Fi available in hostels? <|end_query|>
+<|start_answer|> Answer: Yes, all hostels have high-speed Wi-Fi for academic and personal use. <|end_answer|>
+
+<|start_query|> Query: Could you describe what recreational activities are available in hostels? <|end_query|>
+<|start_answer|> Answer: Hostels have indoor games, TV rooms, and fitness areas for relaxation and leisure. <|end_answer|>
+
+<|start_query|> Query: How do I join campus clubs? <|end_query|>
+<|start_answer|> Answer: Join clubs during the annual club fair or by signing up with the respective club coordinators. <|end_answer|>
+
+<|start_query|> Query: What are the popular clubs on campus? <|end_query|>
+<|start_answer|> Answer: Popular clubs include coding clubs, dance societies, debate teams, and photography groups. <|end_answer|>
+
+<|start_query|> Query: Are there inter-college competitions? <|end_query|>
+<|start_answer|> Answer: Yes, students regularly participate in inter-college technical, cultural, and sports competitions. <|end_answer|>
+
+<|start_query|> Query: Can students form new clubs? <|end_query|>
+<|start_answer|> Answer: Students can propose new clubs by submitting a plan to the student council for approval. <|end_answer|>
+
+<|start_query|> Query: What are popular after-college activities? <|end_query|>
+<|start_answer|> Answer: Students engage in workshops, part-time jobs, and explore local attractions after classes. <|end_answer|>
+
+<|start_query|> Query: Are there evening sports sessions? <|end_query|>
+<|start_answer|> Answer: Yes, evening sports sessions are held on the sports ground, including football and cricket matches. <|end_answer|>
+
+<|start_query|> Query: Is there support for performing arts? <|end_query|>
+<|start_answer|> Answer: Yes, cultural committees support music, dance, and theater activities with regular performances. <|end_answer|>
+
+<|start_query|> Query: Can students volunteer for social causes? <|end_query|>
+<|start_answer|> Answer: Volunteer opportunities are available with campus clubs and local NGOs for community service. <|end_answer|>
+
+<|start_query|> Query: What food options are available on campus? <|end_query|>
+<|start_answer|> Answer: The campus has multiple food courts offering diverse cuisines at affordable prices. <|end_answer|>
+
+<|start_query|> Query: Are there vegetarian food options? <|end_query|>
+<|start_answer|> Answer: Absolutely, vegetarian options are available in all campus eateries and the hostel mess. <|end_answer|>
+
+<|start_query|> Query: Does the campus have cafes? <|end_query|>
+<|start_answer|> Answer: Indeed, there are cafes serving snacks, beverages, and light meals perfect for study breaks. <|end_answer|>
+
+<|start_query|> Query: Are late-night snacks available? <|end_query|>
+<|start_answer|> Answer: Yes, some cafes and vending machines are accessible late at night for snacks. <|end_answer|>
+
+<|start_query|> Query: What are the library timings? <|end_query|>
+<|start_answer|> Answer: The library is open from 8 AM to 10 PM on weekdays and 9 AM to 5 PM on weekends. <|end_answer|>
+
+<|start_query|> Query: Can I borrow books from the library? <|end_query|>
+<|start_answer|> Answer: Yes, students can borrow books using their ID card for a specified duration. <|end_answer|>
+
+<|start_query|> Query: Are digital resources available? <|end_query|>
+<|start_answer|> Answer: Certainly, the library offers access to e-books, journals, and research databases. <|end_answer|>
+
+<|start_query|> Query: Is there a quiet study area? <|end_query|>
+<|start_answer|> Answer: Indeed, designated quiet zones are available in the library for focused study. <|end_answer|>
+
+<|start_query|> Query: Is there a gym on campus? <|end_query|>
+<|start_answer|> Answer: Yes, the campus gym is equipped with modern fitness equipment and personal trainers. <|end_answer|>
+
+<|start_query|> Query: What are the gym timings? <|end_query|>
+<|start_answer|> Answer: The gym is open from 6 AM to 9 PM, with separate sessions for men and women. <|end_answer|>
+
+<|start_query|> Query: Are there group fitness classes? <|end_query|>
+<|start_answer|> Answer: Yes, group fitness classes like yoga, Zumba, and aerobics are conducted regularly. <|end_answer|>
+
+<|start_query|> Query: Do students need to pay for the gym? <|end_query|>
+<|start_answer|> Answer: Gym membership is included in hostel fees, and day scholars can subscribe separately. <|end_answer|>
+
+<|start_query|> Query: What are the placement statistics? <|end_query|>
+<|start_answer|> Answer: The placement cell publishes annual reports showcasing placement percentages and top recruiters. <|end_answer|>
+
+<|start_query|> Query: Which companies visit for placements? <|end_query|>
+<|start_answer|> Answer: Top companies from IT, finance, and consulting sectors visit for campus placements. <|end_answer|>
+
+<|start_query|> Query: Is there pre-placement training? <|end_query|>
+<|start_answer|> Answer: Yes, pre-placement training includes mock interviews, resume building, and aptitude tests. <|end_answer|>
+
+<|start_query|> Query: Where can I find information on do I register for placements? <|end_query|>
+<|start_answer|> Answer: Register through the placement portal by submitting required documents and preferences. <|end_answer|>
+
+<|start_query|> Query: What awards are given to students? <|end_query|>
+<|start_answer|> Answer: Awards include academic excellence, leadership, innovation, and community service recognitions. <|end_answer|>
+
+<|start_query|> Query: Are there scholarships for top performers? <|end_query|>
+<|start_answer|> Answer: Absolutely, top-performing students receive merit scholarships and academic awards each semester. <|end_answer|>
+
+<|start_query|> Query: How are award winners selected? <|end_query|>
+<|start_answer|> Answer: Award recipients are chosen based on academic records, extracurricular achievements, and leadership roles. <|end_answer|>
+
+<|start_query|> Query: Is there a convocation ceremony? <|end_query|>
+<|start_answer|> Answer: Yes, the convocation ceremony includes degree conferral and award presentations for graduates. <|end_answer|>
+
+<|start_query|> Query: Could you describe what is the faculty-student ratio? <|end_query|>
+<|start_answer|> Answer: The faculty-student ratio ensures personalized attention and effective mentorship. <|end_answer|>
+
+<|start_query|> Query: Are faculty members industry-experienced? <|end_query|>
+<|start_answer|> Answer: Many faculty members have extensive industry experience and academic expertise. <|end_answer|>
+
+<|start_query|> Query: How accessible are faculty members? <|end_query|>
+<|start_answer|> Answer: Faculty members are available during office hours and by appointment for student consultations. <|end_answer|>
+
+<|start_query|> Query: Do faculties engage in research? <|end_query|>
+<|start_answer|> Answer: Yes, faculty members actively participate in research projects and publish in reputed journals. <|end_answer|>
+
+<|start_query|> Query: What sports facilities are available? <|end_query|>
+<|start_answer|> Answer: Facilities include cricket grounds, football fields, tennis courts, and indoor sports complexes. <|end_answer|>
+
+<|start_query|> Query: Are there sports scholarships? <|end_query|>
+<|start_answer|> Answer: Indeed, sports scholarships are awarded based on performance in national and state-level events. <|end_answer|>
+
+<|start_query|> Query: Is there a sports fest? <|end_query|>
+<|start_answer|> Answer: An annual sports fest invites participation from various colleges in multiple disciplines. <|end_answer|>
+
+<|start_query|> Query: Can beginners join sports teams? <|end_query|>
+<|start_answer|> Answer: Yes, beginners can join training sessions and represent the college after selection trials. <|end_answer|>
+
+<|start_query|> Query: Can you tell me what major events are held on campus? <|end_query|>
+<|start_answer|> Answer: Annual tech fests, cultural nights, and sports tournaments are key highlights of campus life. <|end_answer|>
+
+<|start_query|> Query: How can I participate in events? <|end_query|>
+<|start_answer|> Answer: Event registrations are announced on the student portal and campus notice boards. <|end_answer|>
+
+<|start_query|> Query: Are there guest lectures? <|end_query|>
+<|start_answer|> Answer: Renowned industry experts and alumni are invited for guest lectures throughout the academic year. <|end_answer|>
+
+<|start_query|> Query: Could you describe what cultural festivals are organized? <|end_query|>
+<|start_answer|> Answer: Cultural festivals include dance competitions, music shows, and drama performances celebrating diversity. <|end_answer|>
+
+<|start_query|> Query: Does the college offer online courses? <|end_query|>
+<|start_answer|> Answer: Absolutely, online certifications in data science, AI, and management are available through partner platforms. <|end_answer|>
+
+<|start_query|> Query: Are online courses part of the curriculum? <|end_query|>
+<|start_answer|> Answer: Some online courses are integrated into the curriculum for skill enhancement. <|end_answer|>
+
+<|start_query|> Query: Can students get credits for online courses? <|end_query|>
+<|start_answer|> Answer: Absolutely, select online courses are credit-eligible after meeting performance criteria. <|end_answer|>
+
+<|start_query|> Query: What platforms offer online learning? <|end_query|>
+<|start_answer|> Answer: Partnerships with Coursera, edX, and Udacity enable access to various professional courses. <|end_answer|>
+
+<|start_query|> Query: Does the college provide internship opportunities? <|end_query|>
+<|start_answer|> Answer: The placement cell collaborates with companies to offer internships in various domains. <|end_answer|>
+
+<|start_query|> Query: Are internships mandatory for graduation? <|end_query|>
+<|start_answer|> Answer: Internships are mandatory for certain programs as part of the curriculum. <|end_answer|>
+
+<|start_query|> Query: Can students pursue international internships? <|end_query|>
+<|start_answer|> Answer: Yes, international internship opportunities are available through global partnerships. <|end_answer|>
+
+<|start_query|> Query: How do I apply for internships? <|end_query|>
+<|start_answer|> Answer: Students can apply via the placement portal or approach faculty advisors for guidance. <|end_answer|>
+
+<|start_query|> Query: What on-campus facilities are available? <|end_query|>
+<|start_answer|> Answer: Facilities include health centers, bookstores, stationery shops, and banking services. <|end_answer|>
+
+<|start_query|> Query: Are there part-time jobs on campus? <|end_query|>
+<|start_answer|> Answer: Indeed, part-time roles like library assistants and research aides are available for students. <|end_answer|>
+
+<|start_query|> Query: Is on-campus accommodation available for all students? <|end_query|>
+<|start_answer|> Answer: Hostel accommodation is provided on a first-come, first-served basis with priority for freshmen. <|end_answer|>
+
+<|start_query|> Query: Are there meal plans for day scholars? <|end_query|>
+<|start_answer|> Answer: Day scholars can opt for meal plans providing access to campus dining facilities. <|end_answer|>
+
+<|start_query|> Query: Could you describe what tech courses are available? <|end_query|>
+<|start_answer|> Answer: Courses in computer science, AI, cybersecurity, and data analytics are offered for tech enthusiasts. <|end_answer|>
+
+<|start_query|> Query: Are there non-tech courses available? <|end_query|>
+<|start_answer|> Answer: Non-tech options include psychology, business management, media studies, and literature programs. <|end_answer|>
+
+<|start_query|> Query: Can students switch courses after admission? <|end_query|>
+<|start_answer|> Answer: Course changes are allowed during the add-drop period, subject to academic regulations. <|end_answer|>
+
+<|start_query|> Query: Are interdisciplinary courses available? <|end_query|>
+<|start_answer|> Answer: Yes, students can enroll in interdisciplinary electives blending technology, business, and humanities. <|end_answer|>
+
+<|start_query|> Query: What are the hostel facilities available? <|end_query|>
+<|start_answer|> Answer: The hostel provides furnished rooms, Wi-Fi, laundry services, and common rooms for recreation. <|end_answer|>
+
+<|start_query|> Query: Where can I find information on can I apply for hostel accommodation? <|end_query|>
+<|start_answer|> Answer: One can apply for hostel accommodation through the student portal during the admission process. <|end_answer|>
+
+<|start_query|> Query: Are there separate hostels for boys and girls? <|end_query|>
+<|start_answer|> Answer: Yes, the campus has separate hostels for boys and girls, each with dedicated wardens. <|end_answer|>
+
+<|start_query|> Query: What are the hostel rules and timings? <|end_query|>
+<|start_answer|> Answer: Hostel rules include curfew timings, visitor policies, and guidelines to ensure a safe living environment. <|end_answer|>
+
+<|start_query|> Query: What is the admission process? <|end_query|>
+<|start_answer|> Answer: Admissions are based on entrance exams, merit, and interviews, depending on the program. <|end_answer|>
+
+<|start_query|> Query: Are there any entrance exams required? <|end_query|>
+<|start_answer|> Answer: Yes, some programs require entrance exams. Check the admissions brochure for details. <|end_answer|>
+
+<|start_query|> Query: I would like to know what documents are needed for admission? <|end_query|>
+<|start_answer|> Answer: You need academic transcripts, ID proof, entrance exam scores, and passport-sized photos. <|end_answer|>
+
+<|start_query|> Query: Is there any admission helpline available? <|end_query|>
+<|start_answer|> Answer: Yes, the admissions office provides support via email and phone during business hours. <|end_answer|>
+
+<|start_query|> Query: What scholarships are offered? <|end_query|>
+<|start_answer|> Answer: Merit-based, need-based, and sports scholarships are available. Details are on the scholarships page. <|end_answer|>
+
+<|start_query|> Query: How to apply for scholarships? <|end_query|>
+<|start_answer|> Answer: Submit the scholarship form online along with required documents during the admission process. <|end_answer|>
+
+<|start_query|> Query: Are scholarships renewed every year? <|end_query|>
+<|start_answer|> Answer: Scholarships are renewed annually based on academic performance and other criteria. <|end_answer|>
+
+<|start_query|> Query: Is there financial aid for international students? <|end_query|>
+<|start_answer|> Answer: Indeed, limited scholarships are available for international students based on merit and need. <|end_answer|>
+
+<|start_query|> Query: Could you describe what is campus life like? <|end_query|>
+<|start_answer|> Answer: Campus life is vibrant, with various clubs, cultural events, and academic activities throughout the year. <|end_answer|>
+
+<|start_query|> Query: Are there common areas for students to relax? <|end_query|>
+<|start_answer|> Answer: Yes, there are student lounges, gardens, and recreational areas for students to relax and socialize. <|end_answer|>
+
+<|start_query|> Query: What safety measures are in place on campus? <|end_query|>
+<|start_answer|> Answer: The campus has 24/7 security, CCTV surveillance, and emergency response systems. <|end_answer|>
+
+<|start_query|> Query: Are there any mentorship programs? <|end_query|>
+<|start_answer|> Answer: Yes, mentorship programs connect students with faculty and senior peers for guidance. <|end_answer|>
+
+<|start_query|> Query: How is the hostel environment? <|end_query|>
+<|start_answer|> Answer: The hostel offers a supportive environment with study groups, recreational activities, and cultural nights. <|end_answer|>
+
+<|start_query|> Query: What are the dining options in the hostel? <|end_query|>
+<|start_answer|> Answer: The hostel mess provides nutritious meals with vegetarian and non-vegetarian options. <|end_answer|>
+
+<|start_query|> Query: Is there Wi-Fi available in hostels? <|end_query|>
+<|start_answer|> Answer: Indeed, all hostels have high-speed Wi-Fi for academic and personal use. <|end_answer|>
+
+<|start_query|> Query: Can you tell me what recreational activities are available in hostels? <|end_query|>
+<|start_answer|> Answer: Hostels have indoor games, TV rooms, and fitness areas for relaxation and leisure. <|end_answer|>
+
+<|start_query|> Query: Where can I find information on do I join campus clubs? <|end_query|>
+<|start_answer|> Answer: Join clubs during the annual club fair or by signing up with the respective club coordinators. <|end_answer|>
+
+<|start_query|> Query: What are the popular clubs on campus? <|end_query|>
+<|start_answer|> Answer: Popular clubs include coding clubs, dance societies, debate teams, and photography groups. <|end_answer|>
+
+<|start_query|> Query: Are there inter-college competitions? <|end_query|>
+<|start_answer|> Answer: Yes, students regularly participate in inter-college technical, cultural, and sports competitions. <|end_answer|>
+
+<|start_query|> Query: Can students form new clubs? <|end_query|>
+<|start_answer|> Answer: Students can propose new clubs by submitting a plan to the student council for approval. <|end_answer|>
+
+<|start_query|> Query: Can you tell me what are popular after-college activities? <|end_query|>
+<|start_answer|> Answer: Students engage in workshops, part-time jobs, and explore local attractions after classes. <|end_answer|>
+
+<|start_query|> Query: Are there evening sports sessions? <|end_query|>
+<|start_answer|> Answer: Absolutely, evening sports sessions are held on the sports ground, including football and cricket matches. <|end_answer|>
+
+<|start_query|> Query: Is there support for performing arts? <|end_query|>
+<|start_answer|> Answer: Yes, cultural committees support music, dance, and theater activities with regular performances. <|end_answer|>
+
+<|start_query|> Query: Can students volunteer for social causes? <|end_query|>
+<|start_answer|> Answer: Volunteer opportunities are available with campus clubs and local NGOs for community service. <|end_answer|>
+
+<|start_query|> Query: What food options are available on campus? <|end_query|>
+<|start_answer|> Answer: The campus has multiple food courts offering diverse cuisines at affordable prices. <|end_answer|>
+
+<|start_query|> Query: Are there vegetarian food options? <|end_query|>
+<|start_answer|> Answer: Indeed, vegetarian options are available in all campus eateries and the hostel mess. <|end_answer|>
+
+<|start_query|> Query: Does the campus have cafes? <|end_query|>
+<|start_answer|> Answer: Yes, there are cafes serving snacks, beverages, and light meals perfect for study breaks. <|end_answer|>
+
+<|start_query|> Query: Are late-night snacks available? <|end_query|>
+<|start_answer|> Answer: Yes, some cafes and vending machines are accessible late at night for snacks. <|end_answer|>
+
+<|start_query|> Query: I would like to know what are the library timings? <|end_query|>
+<|start_answer|> Answer: The library is open from 8 AM to 10 PM on weekdays and 9 AM to 5 PM on weekends. <|end_answer|>
+
+<|start_query|> Query: Can I borrow books from the library? <|end_query|>
+<|start_answer|> Answer: Yes, students can borrow books using their ID card for a specified duration. <|end_answer|>
+
+<|start_query|> Query: Are digital resources available? <|end_query|>
+<|start_answer|> Answer: Yes, the library offers access to e-books, journals, and research databases. <|end_answer|>
+
+<|start_query|> Query: Is there a quiet study area? <|end_query|>
+<|start_answer|> Answer: Indeed, designated quiet zones are available in the library for focused study. <|end_answer|>
+
+<|start_query|> Query: Is there a gym on campus? <|end_query|>
+<|start_answer|> Answer: Yes, the campus gym is equipped with modern fitness equipment and personal trainers. <|end_answer|>
+
+<|start_query|> Query: I would like to know what are the gym timings? <|end_query|>
+<|start_answer|> Answer: The gym is open from 6 AM to 9 PM, with separate sessions for men and women. <|end_answer|>
+
+<|start_query|> Query: Are there group fitness classes? <|end_query|>
+<|start_answer|> Answer: Yes, group fitness classes like yoga, Zumba, and aerobics are conducted regularly. <|end_answer|>
+
+<|start_query|> Query: Do students need to pay for the gym? <|end_query|>
+<|start_answer|> Answer: Gym membership is included in hostel fees, and day scholars can subscribe separately. <|end_answer|>
+
+<|start_query|> Query: What are the placement statistics? <|end_query|>
+<|start_answer|> Answer: The placement cell publishes annual reports showcasing placement percentages and top recruiters. <|end_answer|>
+
+<|start_query|> Query: Which companies visit for placements? <|end_query|>
+<|start_answer|> Answer: Top companies from IT, finance, and consulting sectors visit for campus placements. <|end_answer|>
+
+<|start_query|> Query: Is there pre-placement training? <|end_query|>
+<|start_answer|> Answer: Yes, pre-placement training includes mock interviews, resume building, and aptitude tests. <|end_answer|>
+
+<|start_query|> Query: Could you explain how do I register for placements? <|end_query|>
+<|start_answer|> Answer: Register through the placement portal by submitting required documents and preferences. <|end_answer|>
+
+<|start_query|> Query: What awards are given to students? <|end_query|>
+<|start_answer|> Answer: Awards include academic excellence, leadership, innovation, and community service recognitions. <|end_answer|>
+
+<|start_query|> Query: Are there scholarships for top performers? <|end_query|>
+<|start_answer|> Answer: Yes, top-performing students receive merit scholarships and academic awards each semester. <|end_answer|>
+
+<|start_query|> Query: Could you explain how are award winners selected? <|end_query|>
+<|start_answer|> Answer: Award recipients are chosen based on academic records, extracurricular achievements, and leadership roles. <|end_answer|>
+
+<|start_query|> Query: Is there a convocation ceremony? <|end_query|>
+<|start_answer|> Answer: Certainly, the convocation ceremony includes degree conferral and award presentations for graduates. <|end_answer|>
+
+<|start_query|> Query: What is the faculty-student ratio? <|end_query|>
+<|start_answer|> Answer: The faculty-student ratio ensures personalized attention and effective mentorship. <|end_answer|>
+
+<|start_query|> Query: Are faculty members industry-experienced? <|end_query|>
+<|start_answer|> Answer: Many faculty members have extensive industry experience and academic expertise. <|end_answer|>
+
+<|start_query|> Query: How accessible are faculty members? <|end_query|>
+<|start_answer|> Answer: Faculty members are available during office hours and by appointment for student consultations. <|end_answer|>
+
+<|start_query|> Query: Do faculties engage in research? <|end_query|>
+<|start_answer|> Answer: Indeed, faculty members actively participate in research projects and publish in reputed journals. <|end_answer|>
+
+<|start_query|> Query: Can you tell me what sports facilities are available? <|end_query|>
+<|start_answer|> Answer: Facilities include cricket grounds, football fields, tennis courts, and indoor sports complexes. <|end_answer|>
+
+<|start_query|> Query: Are there sports scholarships? <|end_query|>
+<|start_answer|> Answer: Yes, sports scholarships are awarded based on performance in national and state-level events. <|end_answer|>
+
+<|start_query|> Query: Is there a sports fest? <|end_query|>
+<|start_answer|> Answer: An annual sports fest invites participation from various colleges in multiple disciplines. <|end_answer|>
+
+<|start_query|> Query: Can beginners join sports teams? <|end_query|>
+<|start_answer|> Answer: Yes, beginners can join training sessions and represent the college after selection trials. <|end_answer|>
+
+<|start_query|> Query: What major events are held on campus? <|end_query|>
+<|start_answer|> Answer: Annual tech fests, cultural nights, and sports tournaments are key highlights of campus life. <|end_answer|>
+
+<|start_query|> Query: How can I participate in events? <|end_query|>
+<|start_answer|> Answer: Event registrations are announced on the student portal and campus notice boards. <|end_answer|>
+
+<|start_query|> Query: Are there guest lectures? <|end_query|>
+<|start_answer|> Answer: Renowned industry experts and alumni are invited for guest lectures throughout the academic year. <|end_answer|>
+
+<|start_query|> Query: What cultural festivals are organized? <|end_query|>
+<|start_answer|> Answer: Cultural festivals include dance competitions, music shows, and drama performances celebrating diversity. <|end_answer|>
+
+<|start_query|> Query: Does the college offer online courses? <|end_query|>
+<|start_answer|> Answer: Yes, online certifications in data science, AI, and management are available through partner platforms. <|end_answer|>
+
+<|start_query|> Query: Are online courses part of the curriculum? <|end_query|>
+<|start_answer|> Answer: Some online courses are integrated into the curriculum for skill enhancement. <|end_answer|>
+
+<|start_query|> Query: Can students get credits for online courses? <|end_query|>
+<|start_answer|> Answer: Certainly, select online courses are credit-eligible after meeting performance criteria. <|end_answer|>
+
+<|start_query|> Query: What platforms offer online learning? <|end_query|>
+<|start_answer|> Answer: Partnerships with Coursera, edX, and Udacity enable access to various professional courses. <|end_answer|>
+
+<|start_query|> Query: Does the college provide internship opportunities? <|end_query|>
+<|start_answer|> Answer: The placement cell collaborates with companies to offer internships in various domains. <|end_answer|>
+
+<|start_query|> Query: Are internships mandatory for graduation? <|end_query|>
+<|start_answer|> Answer: Internships are mandatory for certain programs as part of the curriculum. <|end_answer|>
